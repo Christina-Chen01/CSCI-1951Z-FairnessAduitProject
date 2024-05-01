@@ -1,0 +1,1001 @@
+Applicant ID,School Name,GPA,Degree,Location,Gender,Veteran status,Work authorization,Disability,Ethnicity,Role 1,Start 1,End 1,Role 2,Start 2,End 2,Role 3,Start 3,End 3,Resume score,prediction
+1,University 200,3.66,High School,Patricialand,F,1,0,0,0,Teaching Assistant,09/17,11/18,N/A,N/A,N/A,N/A,N/A,N/A,9.51,0
+2,University 75,3.93,High School,New Kristopherfurt,M,0,0,1,0,Software Engineer,11/21,12/22,Network Administrator,04/17,02/21,Full-stack Developer,05/17,08/20,1.92,0
+3,University 22,3.37,Phd,Davidborough,N/A,0,1,N/A,0,Network Administrator,11/22,08/24,N/A,N/A,N/A,N/A,N/A,N/A,0.51,0
+4,University 5,3.74,Some College,Seanbury,F,0,0,1,4,IT Manager,11/18,04/19,Data Scientist,12/18,01/22,Business Analyst,12/17,07/18,4.98,0
+5,University 152,3.27,Post-Doc,Wintersville,F,1,1,1,0,Business Analyst,02/21,04/24,Software Engineer,10/17,08/20,Developer,03/19,12/20,5.05,0
+6,University 79,2.85,Bachelors,Lake Tyronetown,M,N/A,1,0,3,UX Designer,11/18,10/19,N/A,N/A,N/A,N/A,N/A,N/A,5.91,0
+7,University 109,3.87,Bachelors,Howardton,N/A,0,1,N/A,0,Web Developer,03/23,08/25,N/A,N/A,N/A,N/A,N/A,N/A,3.92,0
+8,University 98,3.31,Masters,Port Austin,F,1,1,N/A,4,Developer,11/20,06/24,Research Assistant,12/20,04/21,QA Analyst,11/17,05/18,3.14,0
+9,University 136,3.48,Masters,Dianeborough,F,0,1,0,0,Developer,07/16,01/17,Web Developer,01/21,08/23,Research Assistant,09/18,06/22,4.97,0
+10,University 92,3.89,High School,Arianastad,N/A,N/A,0,1,3,Back-end Developer,08/16,08/18,Full-stack Developer,01/23,09/26,N/A,N/A,N/A,2.37,0
+11,University 34,2.98,Bachelors,Donnamouth,M,1,0,0,4,Technical Support Specialist,03/22,12/24,Business Analyst,01/21,06/24,N/A,N/A,N/A,9.81,1
+12,University 186,3.91,Some College,Port Thomasfort,M,1,1,0,1,Developer,12/16,10/18,QA Analyst,03/19,10/22,Front-end Developer,01/23,09/26,9.63,1
+13,University 50,2.84,Masters,Loweburgh,M,0,1,N/A,0,Data Analyst,08/21,07/22,N/A,N/A,N/A,N/A,N/A,N/A,2.16,1
+14,University 69,3.84,High School,Port Gregory,F,0,1,0,4,Research Assistant,10/17,01/20,Network Administrator,06/16,09/16,N/A,N/A,N/A,8.52,0
+15,University 114,3.52,Some College,Emilyhaven,M,N/A,1,N/A,3,Research Assistant,12/22,03/24,Software Engineer,11/19,08/23,Web Developer,07/17,06/20,2.5,1
+16,University 4,3.38,Post-Doc,New Danny,F,N/A,0,1,3,Web Developer,03/20,01/23,QA Analyst,09/21,12/24,System Analyst,04/21,05/22,9.09,0
+17,University 57,3.07,Phd,South Benjaminview,M,N/A,1,1,3,Developer,04/23,01/24,Full-stack Developer,05/19,02/23,Network Administrator,05/22,10/23,0.2,0
+18,University 159,3.79,Post-Doc,Lorimouth,M,N/A,0,0,3,Network Administrator,07/17,03/18,Data Analyst,04/22,10/25,Business Analyst,11/22,05/24,5.26,0
+19,University 117,3.46,Bachelors,West Rachelside,N/A,1,0,N/A,4,Teaching Assistant,08/21,08/23,Product Manager,01/20,08/20,Network Administrator,11/20,11/21,4.07,0
+20,University 7,3.91,High School,Patriciamouth,F,0,1,0,0,UX Designer,08/22,10/23,Software Engineer,08/21,10/21,Software Engineer,10/21,06/25,2.05,0
+21,University 28,3.72,Phd,West Edward,N/A,N/A,1,1,0,Business Analyst,09/20,04/24,Research Assistant,07/19,07/21,Network Administrator,12/22,09/23,9.19,0
+22,University 22,3.34,High School,Lake Laurafort,M,1,0,N/A,0,Business Analyst,01/17,03/20,Database Administrator,08/17,02/21,N/A,N/A,N/A,5.3,1
+23,University 182,2.92,Masters,West Amy,F,1,0,1,3,Technical Support Specialist,10/20,03/24,N/A,N/A,N/A,N/A,N/A,N/A,6.37,0
+24,University 128,3.22,Phd,South Garyton,M,0,1,N/A,0,Database Administrator,08/21,11/23,UX Designer,10/20,08/23,Product Manager,01/21,06/21,5.85,0
+25,University 108,3.75,High School,Lake Roberttown,F,1,0,1,0,QA Analyst,09/17,05/19,QA Analyst,06/21,12/22,N/A,N/A,N/A,7.13,1
+26,University 6,3.47,Phd,Port Jeremiah,M,N/A,1,0,3,Business Analyst,09/18,10/20,Teaching Assistant,12/17,01/18,N/A,N/A,N/A,5.47,0
+27,University 132,3.3,Masters,East Lindaton,M,1,0,0,4,Back-end Developer,05/16,07/17,N/A,N/A,N/A,N/A,N/A,N/A,6.68,1
+28,University 161,2.9,Bachelors,Currystad,N/A,0,0,1,3,Database Administrator,03/20,04/22,N/A,N/A,N/A,N/A,N/A,N/A,9.33,0
+29,University 188,3.07,Bachelors,Port Nicholasborough,M,1,0,N/A,3,Web Developer,05/18,10/18,UX Designer,04/20,04/23,Web Developer,07/20,08/23,7.61,0
+30,University 111,3.18,High School,North Josephside,M,1,1,1,0,Technical Support Specialist,09/16,11/16,Product Manager,08/17,05/20,QA Analyst,03/20,07/22,1.94,1
+31,University 92,2.99,Phd,Port Sarah,M,1,1,N/A,3,Software Engineer,06/16,10/16,Applications Developer,11/17,03/19,N/A,N/A,N/A,4.4,1
+32,University 198,3.16,Bachelors,Jasonville,N/A,1,0,1,4,Network Administrator,10/16,07/20,Data Scientist,05/22,08/22,N/A,N/A,N/A,4.6,0
+33,University 15,3.85,Bachelors,Lake Amy,M,0,0,N/A,4,Product Manager,05/22,01/25,Database Administrator,09/20,05/22,Data Analyst,02/17,05/20,4.5,0
+34,University 53,3.03,Masters,West Craig,F,N/A,0,0,3,Product Manager,01/18,03/19,Applications Developer,03/17,02/18,N/A,N/A,N/A,2.23,0
+35,University 10,3.22,Some College,North Sean,F,1,0,0,3,Database Administrator,12/16,05/19,Data Analyst,08/16,01/20,N/A,N/A,N/A,8.52,1
+36,University 151,3.6,Phd,Dianechester,M,N/A,0,0,0,IT Manager,01/23,10/24,Technical Support Specialist,02/17,08/19,Applications Developer,12/22,07/25,0.72,0
+37,University 95,3.15,Masters,New Gwendolyn,F,N/A,1,N/A,0,System Analyst,12/18,06/21,Research Assistant,06/19,03/23,N/A,N/A,N/A,3.69,0
+38,University 169,3.84,High School,Jonesbury,M,N/A,0,N/A,3,Research Assistant,06/16,02/20,Software Engineer,07/18,12/21,N/A,N/A,N/A,6.49,1
+39,University 45,3.09,Some College,Ronaldport,M,1,1,N/A,3,Research Assistant,01/18,09/20,Front-end Developer,02/17,10/18,N/A,N/A,N/A,4.96,0
+40,University 159,2.91,Bachelors,Port Justintown,N/A,N/A,1,0,3,System Analyst,07/19,12/20,Full-stack Developer,04/19,07/19,Database Administrator,03/22,04/25,1.19,0
+41,University 56,3.52,Masters,West Tammie,N/A,1,0,N/A,3,Web Developer,05/20,04/23,Data Analyst,03/19,07/21,Research Assistant,07/22,11/24,6.26,0
+42,University 189,3.96,Masters,Wrightland,M,N/A,0,1,0,Product Manager,06/16,02/17,Data Analyst,02/17,05/20,Technical Support Specialist,01/19,11/20,9.93,0
+43,University 93,2.86,Post-Doc,Annaside,M,N/A,0,1,0,UX Designer,11/18,04/19,N/A,N/A,N/A,N/A,N/A,N/A,6.12,1
+44,University 145,3.96,Some College,East Oliviafort,M,N/A,1,1,0,Software Engineer,10/18,05/21,Business Analyst,08/22,04/24,Web Developer,08/22,04/24,1.09,1
+45,University 195,2.89,Some College,Mcneilview,M,1,0,1,3,Network Administrator,02/18,02/22,QA Analyst,10/17,02/21,Full-stack Developer,12/16,10/19,4.68,1
+46,University 95,2.89,Masters,West Nicholasberg,M,1,1,0,0,Data Scientist,09/19,04/23,Developer,09/16,11/16,Back-end Developer,06/20,10/20,8.73,0
+47,University 147,2.91,Bachelors,Harristown,M,0,1,1,0,Developer,01/17,11/17,Developer,02/22,08/22,IT Manager,02/21,10/23,4.18,0
+48,University 73,3.26,Post-Doc,Lake Shannon,N/A,0,1,0,2,Data Scientist,03/21,04/23,N/A,N/A,N/A,N/A,N/A,N/A,0.54,0
+49,University 170,2.93,Some College,Blevinschester,M,0,0,1,3,Applications Developer,08/18,01/21,Developer,05/18,04/22,Database Administrator,10/16,05/20,0.77,1
+50,University 81,3.08,Bachelors,Timothyside,F,1,1,0,0,Developer,10/18,01/22,Data Scientist,02/22,01/26,N/A,N/A,N/A,1.44,0
+51,University 147,3.53,Bachelors,New Amanda,M,0,0,1,3,Product Manager,04/16,10/16,N/A,N/A,N/A,N/A,N/A,N/A,5.2,0
+52,University 22,2.94,Masters,Rachelland,F,0,1,1,0,Network Administrator,07/21,11/22,Developer,10/21,08/24,IT Manager,07/21,05/25,1.85,0
+53,University 122,3.24,Phd,North Michelle,M,0,1,N/A,3,IT Manager,05/16,10/16,Back-end Developer,01/23,12/25,N/A,N/A,N/A,4.57,1
+54,University 46,2.95,Masters,Bennetttown,M,0,0,0,4,Web Developer,03/21,06/21,Applications Developer,12/21,10/24,Research Assistant,07/19,04/23,7.63,0
+55,University 184,3.1,Masters,Jacobsport,M,1,1,0,0,Database Administrator,06/16,12/17,Network Administrator,08/21,05/23,N/A,N/A,N/A,2.31,1
+56,University 124,3.35,Bachelors,Richardport,F,1,0,N/A,3,System Analyst,12/22,12/23,N/A,N/A,N/A,N/A,N/A,N/A,1.64,0
+57,University 152,3.64,Masters,Susanmouth,M,N/A,1,N/A,4,Business Analyst,06/22,01/25,Data Scientist,11/20,10/24,Back-end Developer,09/22,06/23,0.44,0
+58,University 115,3.7,Phd,South Brad,M,0,1,N/A,4,System Analyst,09/22,02/23,N/A,N/A,N/A,N/A,N/A,N/A,8.32,1
+59,University 173,2.93,Bachelors,Avilaview,M,1,1,1,0,QA Analyst,08/20,01/21,Teaching Assistant,10/18,06/22,Full-stack Developer,04/21,02/24,4.84,1
+60,University 165,3.65,Masters,Hannahfurt,N/A,0,1,0,3,Developer,05/17,01/21,IT Manager,06/21,05/24,Product Manager,08/19,09/20,1.73,0
+61,University 42,3.89,Bachelors,West Vanessa,M,N/A,1,1,2,Network Administrator,12/20,03/23,N/A,N/A,N/A,N/A,N/A,N/A,0.3,1
+62,University 47,3.08,High School,New Nathan,M,N/A,0,0,3,Database Administrator,06/19,10/22,N/A,N/A,N/A,N/A,N/A,N/A,4.88,1
+63,University 46,3.51,Phd,Fritzview,N/A,N/A,0,1,3,Web Developer,02/19,07/21,N/A,N/A,N/A,N/A,N/A,N/A,1.61,0
+64,University 137,3.66,Some College,Smithton,M,0,0,1,4,Network Administrator,03/23,12/23,QA Analyst,01/19,03/19,N/A,N/A,N/A,1.87,0
+65,University 83,3.44,Masters,Kirstenville,M,0,1,N/A,3,Web Developer,09/22,01/23,Network Administrator,01/22,06/22,N/A,N/A,N/A,0.88,0
+66,University 173,3.12,Some College,Port Toni,F,1,0,1,0,Front-end Developer,05/16,05/19,Back-end Developer,12/20,03/23,Product Manager,08/19,05/20,2.48,0
+67,University 134,3.03,Masters,Williamsland,N/A,0,0,0,3,Research Assistant,10/16,12/18,Web Developer,01/21,09/22,IT Manager,11/18,04/20,8.91,0
+68,University 51,3.84,Post-Doc,Jamesshire,N/A,0,1,1,3,System Analyst,06/17,12/19,Network Administrator,11/19,08/23,Data Analyst,10/20,05/23,7.72,0
+69,University 150,3.61,Post-Doc,New Mary,N/A,0,1,1,4,System Analyst,09/17,05/18,UX Designer,08/19,02/20,Software Engineer,05/16,01/18,8.76,0
+70,University 30,3.66,Bachelors,East Joannafurt,F,N/A,0,0,3,Web Developer,06/16,08/19,N/A,N/A,N/A,N/A,N/A,N/A,2.42,0
+71,University 22,3.55,Phd,Kellyland,M,N/A,0,1,0,UX Designer,10/21,03/24,N/A,N/A,N/A,N/A,N/A,N/A,4.89,0
+72,University 26,3.27,Bachelors,North Theresa,M,1,0,N/A,2,Teaching Assistant,08/17,07/20,Database Administrator,09/19,04/21,Technical Support Specialist,08/19,05/22,7.31,1
+73,University 110,3.7,Bachelors,North Derek,F,N/A,1,N/A,3,Developer,09/20,04/21,System Analyst,06/18,03/22,QA Analyst,12/20,07/22,9.43,1
+74,University 10,3.17,Bachelors,Lake Kelly,F,1,1,1,4,Data Scientist,08/22,05/26,QA Analyst,05/17,06/19,IT Manager,07/22,04/25,5.22,0
+75,University 146,3.84,Masters,Ashleyton,M,1,1,N/A,4,Applications Developer,01/17,08/20,Full-stack Developer,02/18,08/21,Software Engineer,12/18,10/21,8.26,1
+76,University 71,3.27,Bachelors,New Kathleenville,N/A,N/A,0,0,0,Technical Support Specialist,12/17,03/19,Front-end Developer,07/20,05/22,Database Administrator,08/20,02/24,8.98,0
+77,University 147,3.37,Bachelors,Anthonystad,N/A,N/A,0,1,4,Database Administrator,03/17,10/18,UX Designer,02/18,04/20,UX Designer,01/18,06/21,3.09,0
+78,University 72,3.51,Phd,East Melodyborough,M,N/A,0,1,3,IT Manager,03/17,05/19,Front-end Developer,09/21,03/24,N/A,N/A,N/A,3.81,1
+79,University 152,3.76,Phd,Gaybury,F,1,0,0,0,Data Analyst,12/18,10/21,Back-end Developer,02/23,08/24,Technical Support Specialist,04/19,07/21,5.09,0
+80,University 85,3.52,Post-Doc,Alvaradoside,M,1,1,1,4,Applications Developer,10/21,04/24,Network Administrator,02/22,06/25,N/A,N/A,N/A,6.94,0
+81,University 28,3.77,Phd,Lake Ann,M,0,1,0,4,Data Analyst,11/19,11/21,Applications Developer,09/17,05/21,UX Designer,10/18,01/19,0.22,1
+82,University 95,2.8,Phd,Stephenberg,N/A,1,1,1,0,Developer,11/18,05/20,System Analyst,12/22,02/26,Research Assistant,08/18,05/22,9.25,0
+83,University 74,3.83,Post-Doc,Normanport,F,0,1,1,0,Front-end Developer,06/20,02/22,Research Assistant,09/22,04/25,Network Administrator,07/17,09/17,7.08,0
+84,University 139,3.02,Post-Doc,South Randallborough,M,0,1,1,0,Full-stack Developer,12/16,02/18,Product Manager,06/22,04/26,Research Assistant,11/22,02/25,2.65,1
+85,University 79,3.85,Some College,East Leslie,M,0,0,1,4,IT Manager,04/22,11/25,Network Administrator,02/23,12/23,Applications Developer,04/19,03/20,2.11,0
+86,University 200,2.95,Post-Doc,Brownmouth,F,1,0,0,4,Back-end Developer,09/21,11/21,Applications Developer,10/21,01/22,IT Manager,10/19,04/20,0.1,0
+87,University 117,3.38,Post-Doc,Kennedyburgh,M,N/A,0,0,0,Web Developer,02/21,02/23,Developer,12/19,03/20,Back-end Developer,09/16,05/17,2.34,0
+88,University 141,3.21,Post-Doc,Richardsonmouth,N/A,N/A,0,N/A,0,Developer,04/18,06/19,Applications Developer,06/18,09/20,Business Analyst,03/23,05/25,7.69,0
+89,University 56,3.17,Masters,Lake Kennethburgh,N/A,1,1,1,3,Research Assistant,12/19,10/21,N/A,N/A,N/A,N/A,N/A,N/A,0.12,0
+90,University 67,3.6,Some College,Underwoodshire,M,1,1,0,3,QA Analyst,08/21,06/24,Software Engineer,01/22,08/23,Data Analyst,11/21,01/22,0.92,0
+91,University 39,3.7,High School,Ponceside,M,0,0,0,3,Web Developer,01/18,07/20,Software Engineer,09/18,01/19,Research Assistant,08/21,04/25,8.24,1
+92,University 28,3.57,Phd,Cervantesburgh,F,0,1,1,0,Back-end Developer,05/19,07/22,UX Designer,11/20,07/22,Data Scientist,06/22,11/23,9.64,1
+93,University 159,3.72,High School,Zavalachester,N/A,0,0,0,3,Research Assistant,03/21,02/25,Developer,07/22,09/25,N/A,N/A,N/A,8.62,0
+94,University 31,3.11,Post-Doc,South Maryfurt,M,N/A,0,0,0,Technical Support Specialist,03/18,08/19,Research Assistant,02/22,12/23,Front-end Developer,12/16,08/18,4.73,0
+95,University 182,3.22,High School,Scottton,F,N/A,0,N/A,0,UX Designer,08/20,05/21,Business Analyst,02/18,08/20,Developer,08/20,09/23,1.44,0
+96,University 127,3.05,Masters,Myersview,F,N/A,0,0,0,Network Administrator,05/17,07/19,Network Administrator,07/17,11/17,N/A,N/A,N/A,1.7,0
+97,University 61,3.27,Masters,East Carrie,F,N/A,1,0,4,System Analyst,12/22,10/26,Software Engineer,12/21,11/23,N/A,N/A,N/A,8.15,0
+98,University 85,3.57,Masters,Port Briannahaven,F,0,0,0,0,UX Designer,07/16,09/16,Network Administrator,05/22,11/24,Technical Support Specialist,01/21,09/23,3.79,0
+99,University 140,3.94,Masters,Danielsville,M,N/A,0,N/A,0,Data Analyst,08/20,04/23,N/A,N/A,N/A,N/A,N/A,N/A,1.09,1
+100,University 37,3.26,High School,South Thomasberg,M,N/A,0,0,3,Developer,08/20,08/21,Front-end Developer,12/16,11/18,Software Engineer,09/19,11/19,1.18,0
+101,University 191,2.96,Some College,Davidtown,F,N/A,0,1,0,Research Assistant,03/22,09/25,Database Administrator,04/18,10/18,N/A,N/A,N/A,2.24,0
+102,University 152,3.65,Some College,New Debbie,N/A,1,1,1,3,Front-end Developer,03/20,06/20,Full-stack Developer,04/21,06/23,N/A,N/A,N/A,6.95,0
+103,University 26,3.29,Post-Doc,Kristaport,M,0,0,N/A,4,Technical Support Specialist,09/19,12/19,Product Manager,05/18,07/19,Applications Developer,08/21,04/22,0.72,0
+104,University 99,3.63,Post-Doc,Janechester,M,N/A,0,0,2,Teaching Assistant,10/16,07/19,N/A,N/A,N/A,N/A,N/A,N/A,0.55,1
+105,University 43,3.9,Some College,Barrside,F,0,1,N/A,0,Database Administrator,05/21,09/21,N/A,N/A,N/A,N/A,N/A,N/A,8.71,1
+106,University 116,3.26,Some College,Matthewtown,N/A,N/A,1,1,2,Full-stack Developer,10/21,09/25,Data Analyst,07/18,04/20,Data Analyst,01/21,05/21,0.01,0
+107,University 9,3.29,Post-Doc,Port Elizabeth,N/A,1,0,0,2,Data Analyst,08/18,01/20,N/A,N/A,N/A,N/A,N/A,N/A,7.44,0
+108,University 15,3.42,Bachelors,North Hannah,N/A,1,0,N/A,4,Applications Developer,11/19,07/22,N/A,N/A,N/A,N/A,N/A,N/A,7.15,0
+109,University 162,3.96,Bachelors,Lake Sara,M,N/A,1,0,4,Research Assistant,09/22,12/25,IT Manager,02/20,08/20,N/A,N/A,N/A,1.58,0
+110,University 107,3.65,Masters,Taraville,F,0,0,1,0,QA Analyst,02/19,12/20,Back-end Developer,11/16,05/17,Database Administrator,07/19,03/22,9.3,0
+111,University 101,3.77,Bachelors,Port Christopherton,N/A,1,0,0,4,UX Designer,01/18,12/21,Teaching Assistant,06/19,05/23,Applications Developer,12/21,05/22,4.46,0
+112,University 6,3.9,Bachelors,Kruegerton,M,N/A,1,1,0,Product Manager,10/21,09/23,N/A,N/A,N/A,N/A,N/A,N/A,9.57,1
+113,University 42,2.99,Post-Doc,Josephshire,M,1,1,N/A,0,Data Analyst,11/16,07/18,N/A,N/A,N/A,N/A,N/A,N/A,7.01,1
+114,University 58,4.0,Masters,Riddletown,F,1,0,0,3,Data Analyst,04/21,11/22,Technical Support Specialist,06/22,06/25,N/A,N/A,N/A,6.24,1
+115,University 176,3.35,Bachelors,Lake Donna,M,N/A,1,N/A,0,Teaching Assistant,05/18,03/20,N/A,N/A,N/A,N/A,N/A,N/A,9.75,1
+116,University 4,2.9,Post-Doc,Lake Loriburgh,F,0,0,N/A,3,Front-end Developer,12/22,06/25,N/A,N/A,N/A,N/A,N/A,N/A,2.12,0
+117,University 57,3.48,Masters,South Bruce,M,N/A,1,N/A,0,Full-stack Developer,04/17,12/18,Teaching Assistant,07/17,08/18,Back-end Developer,03/20,05/21,3.53,0
+118,University 190,2.98,Masters,West Theresa,M,1,0,N/A,4,Developer,02/23,05/25,N/A,N/A,N/A,N/A,N/A,N/A,5.66,1
+119,University 15,3.51,Bachelors,New Lisaton,M,1,1,N/A,4,Web Developer,01/20,08/22,Research Assistant,03/17,12/19,N/A,N/A,N/A,7.06,0
+120,University 138,3.16,Bachelors,Yatestown,M,0,0,N/A,3,Database Administrator,02/20,06/22,Front-end Developer,11/16,12/18,Network Administrator,06/21,10/22,3.87,0
+121,University 114,2.94,Bachelors,East Laura,N/A,1,0,N/A,3,IT Manager,03/19,09/22,Research Assistant,10/16,08/18,Network Administrator,08/20,02/21,3.3,0
+122,University 192,3.48,Bachelors,Debbiehaven,M,0,1,N/A,3,Business Analyst,05/19,03/23,System Analyst,01/20,07/21,N/A,N/A,N/A,8.32,0
+123,University 24,3.37,Masters,Smithfort,F,0,0,N/A,0,Software Engineer,02/18,07/19,Front-end Developer,06/19,11/20,Network Administrator,11/19,05/22,5.55,1
+124,University 89,3.83,Phd,South Markton,F,1,1,0,4,Teaching Assistant,05/21,08/24,N/A,N/A,N/A,N/A,N/A,N/A,1.65,0
+125,University 5,3.4,High School,East Kyle,F,1,0,0,0,Teaching Assistant,11/17,01/18,Full-stack Developer,09/19,07/21,N/A,N/A,N/A,2.17,1
+126,University 97,3.77,High School,East Ericshire,F,0,1,N/A,0,Software Engineer,06/17,06/19,N/A,N/A,N/A,N/A,N/A,N/A,0.61,0
+127,University 126,3.3,Bachelors,New Maryhaven,N/A,0,0,0,3,Front-end Developer,04/19,09/21,N/A,N/A,N/A,N/A,N/A,N/A,1.53,0
+128,University 50,3.36,Some College,Port George,F,N/A,1,1,3,Developer,08/18,03/20,IT Manager,08/16,03/17,N/A,N/A,N/A,1.43,0
+129,University 10,2.8,Post-Doc,Port Caleb,M,0,1,1,4,Software Engineer,10/19,06/20,Full-stack Developer,01/23,08/23,Front-end Developer,03/23,06/26,0.55,1
+130,University 20,3.03,Bachelors,Port Breannaberg,M,1,1,1,0,Developer,07/19,05/21,N/A,N/A,N/A,N/A,N/A,N/A,9.49,1
+131,University 68,3.36,Phd,New Russellland,F,N/A,0,N/A,0,Network Administrator,08/19,01/21,N/A,N/A,N/A,N/A,N/A,N/A,0.76,1
+132,University 120,3.4,Masters,Lake Vincent,F,N/A,1,N/A,4,Technical Support Specialist,01/18,07/19,N/A,N/A,N/A,N/A,N/A,N/A,5.02,1
+133,University 141,2.89,Some College,Kaylaville,F,N/A,0,N/A,0,QA Analyst,10/18,01/22,Data Scientist,11/20,06/24,Applications Developer,03/23,05/24,0.42,1
+134,University 51,3.07,Some College,East Mike,M,0,0,0,0,Database Administrator,01/20,08/21,Business Analyst,03/17,06/20,Technical Support Specialist,09/16,11/17,3.6,1
+135,University 194,3.63,Post-Doc,Stevensburgh,M,N/A,1,N/A,4,Full-stack Developer,05/22,03/26,Software Engineer,03/19,12/22,Front-end Developer,12/20,06/24,0.53,0
+136,University 118,2.97,High School,West Benjamin,M,0,1,0,3,Applications Developer,11/19,12/22,Full-stack Developer,08/21,01/24,Database Administrator,03/23,02/24,4.61,0
+137,University 76,2.89,High School,Port Davidberg,M,0,1,N/A,0,Teaching Assistant,07/19,02/20,Data Analyst,05/16,05/18,IT Manager,06/21,02/25,7.58,0
+138,University 56,3.46,Bachelors,New Nathanton,M,N/A,1,N/A,0,Software Engineer,06/20,12/22,IT Manager,11/21,01/25,N/A,N/A,N/A,8.63,1
+139,University 24,2.85,Masters,South Lisaburgh,F,1,1,1,0,QA Analyst,01/17,06/17,N/A,N/A,N/A,N/A,N/A,N/A,3.25,1
+140,University 27,3.66,Post-Doc,Michaelborough,M,N/A,1,N/A,0,Network Administrator,10/22,07/23,Teaching Assistant,08/18,07/21,N/A,N/A,N/A,6.51,0
+141,University 143,2.94,High School,Mccarthymouth,M,0,1,1,3,Network Administrator,02/19,10/21,N/A,N/A,N/A,N/A,N/A,N/A,9.85,0
+142,University 136,3.94,Post-Doc,Christopherchester,M,N/A,1,0,3,Business Analyst,01/17,10/18,Database Administrator,08/17,06/20,Data Analyst,10/17,09/21,5.46,0
+143,University 167,3.65,Post-Doc,Clarkeville,M,1,1,0,0,Business Analyst,05/20,11/23,QA Analyst,07/18,05/22,N/A,N/A,N/A,9.34,1
+144,University 44,2.82,Post-Doc,Patelfurt,F,0,1,0,0,Data Analyst,05/22,03/26,N/A,N/A,N/A,N/A,N/A,N/A,8.04,0
+145,University 177,3.73,Bachelors,Maytown,M,0,0,N/A,4,Developer,01/21,05/24,N/A,N/A,N/A,N/A,N/A,N/A,1.98,1
+146,University 140,2.94,Bachelors,New Nicole,M,0,0,N/A,4,UX Designer,02/19,09/21,Database Administrator,08/17,06/18,Product Manager,11/17,07/21,2.22,0
+147,University 143,3.55,Masters,North Barrymouth,M,N/A,0,0,0,Teaching Assistant,04/22,11/22,Data Scientist,04/22,06/24,N/A,N/A,N/A,4.11,1
+148,University 62,3.91,Masters,North Melissa,M,0,0,1,0,Web Developer,01/19,07/20,Database Administrator,12/16,01/20,Web Developer,06/22,10/22,9.61,0
+149,University 65,3.92,High School,Staceyberg,M,0,1,1,3,Web Developer,01/23,11/24,Front-end Developer,03/18,01/19,N/A,N/A,N/A,0.5,0
+150,University 26,3.22,Some College,Evanshaven,F,0,0,1,0,Applications Developer,12/16,02/20,Software Engineer,09/21,05/24,System Analyst,09/16,02/20,6.75,0
+151,University 108,3.36,Some College,Alexandrashire,F,N/A,0,N/A,3,Developer,05/20,08/23,N/A,N/A,N/A,N/A,N/A,N/A,9.97,1
+152,University 43,3.44,Post-Doc,Leonardburgh,M,N/A,1,1,4,Teaching Assistant,08/21,07/22,N/A,N/A,N/A,N/A,N/A,N/A,2.15,0
+153,University 4,3.97,Bachelors,Richardmouth,F,N/A,0,N/A,4,Web Developer,04/20,05/22,N/A,N/A,N/A,N/A,N/A,N/A,1.98,0
+154,University 114,3.85,Some College,Port Alex,F,0,0,1,0,IT Manager,08/21,03/24,IT Manager,10/18,08/22,Applications Developer,06/17,05/21,1.81,0
+155,University 196,2.95,Some College,Kristinside,M,N/A,1,1,0,Network Administrator,11/20,06/21,Research Assistant,06/17,06/20,QA Analyst,05/17,07/18,2.79,0
+156,University 88,3.07,Bachelors,South Timothyton,N/A,1,0,0,3,Database Administrator,11/17,05/21,Teaching Assistant,07/21,10/22,Software Engineer,01/18,09/21,7.81,0
+157,University 169,3.63,Phd,Ortegaland,F,1,0,0,3,Developer,11/21,07/22,Web Developer,06/16,04/19,Back-end Developer,03/17,11/19,3.89,0
+158,University 107,3.8,High School,Gregorytown,N/A,N/A,0,1,4,Data Analyst,11/19,10/23,N/A,N/A,N/A,N/A,N/A,N/A,5.91,0
+159,University 43,2.81,Post-Doc,West Ronald,N/A,1,1,1,3,Front-end Developer,09/19,02/23,Technical Support Specialist,05/22,01/23,UX Designer,08/17,01/20,9.78,0
+160,University 158,3.17,Masters,New Clayton,F,N/A,1,1,0,Teaching Assistant,01/23,09/26,N/A,N/A,N/A,N/A,N/A,N/A,2.2,0
+161,University 177,2.81,Phd,Jonathanborough,F,1,1,1,3,Data Scientist,02/20,08/22,Technical Support Specialist,07/17,07/18,System Analyst,12/18,12/21,2.43,0
+162,University 106,3.95,Bachelors,Lake Gerald,N/A,N/A,0,0,3,Product Manager,11/16,03/19,Back-end Developer,10/20,12/21,N/A,N/A,N/A,8.99,0
+163,University 18,3.76,High School,South Jessica,M,1,0,1,3,UX Designer,01/19,04/19,N/A,N/A,N/A,N/A,N/A,N/A,2.81,0
+164,University 178,3.07,Some College,Morganside,F,1,0,0,3,Applications Developer,01/23,10/26,System Analyst,07/22,06/23,Teaching Assistant,09/18,07/20,8.92,0
+165,University 164,2.82,Phd,New Ronald,F,0,1,1,0,UX Designer,10/20,02/24,Data Scientist,05/17,01/20,N/A,N/A,N/A,1.31,0
+166,University 191,2.94,Post-Doc,Lake Nicholasmouth,F,N/A,1,1,3,Software Engineer,02/19,01/20,Data Analyst,10/20,01/21,N/A,N/A,N/A,7.88,0
+167,University 62,3.81,Masters,North Bryanville,M,N/A,0,0,3,Full-stack Developer,04/17,01/18,Front-end Developer,10/19,08/23,Data Analyst,05/19,08/20,1.36,0
+168,University 140,3.75,Post-Doc,North Mindy,M,N/A,1,1,4,Research Assistant,09/17,08/21,N/A,N/A,N/A,N/A,N/A,N/A,8.22,0
+169,University 76,3.61,High School,Michellestad,M,0,0,1,3,Full-stack Developer,01/18,06/20,Business Analyst,07/19,05/21,Back-end Developer,02/21,04/24,3.84,1
+170,University 109,3.44,Bachelors,North Rebecca,M,0,1,0,0,Research Assistant,10/17,07/19,N/A,N/A,N/A,N/A,N/A,N/A,3.26,1
+171,University 105,3.81,Some College,Marvinshire,N/A,1,1,0,0,Technical Support Specialist,08/22,05/26,QA Analyst,02/22,05/24,Data Analyst,06/18,02/19,2.08,0
+172,University 77,2.96,Phd,Loweryborough,M,N/A,1,N/A,0,Product Manager,02/20,02/23,UX Designer,10/22,09/23,N/A,N/A,N/A,3.42,0
+173,University 198,3.79,Bachelors,Santanaport,N/A,0,1,0,3,UX Designer,05/20,02/21,Product Manager,09/18,12/19,N/A,N/A,N/A,0.45,0
+174,University 143,3.8,High School,Port Diamondburgh,N/A,1,1,1,0,QA Analyst,03/21,11/21,Research Assistant,08/22,06/24,Software Engineer,01/19,12/20,8.79,0
+175,University 157,3.15,Some College,Port Stephenfurt,F,N/A,1,1,0,Product Manager,12/19,03/21,Applications Developer,04/17,06/19,N/A,N/A,N/A,0.02,0
+176,University 141,3.61,Phd,East Thomasstad,M,1,0,1,3,Applications Developer,02/22,06/22,UX Designer,12/20,04/24,N/A,N/A,N/A,4.03,0
+177,University 14,3.8,High School,Maxwellside,M,N/A,1,0,0,Web Developer,01/19,07/20,N/A,N/A,N/A,N/A,N/A,N/A,6.51,1
+178,University 73,3.21,Post-Doc,Lake Jennifer,M,0,1,N/A,3,Product Manager,11/19,01/21,QA Analyst,01/19,05/19,N/A,N/A,N/A,5.34,0
+179,University 28,3.5,Bachelors,West Natalieshire,M,N/A,1,1,3,IT Manager,03/18,06/19,N/A,N/A,N/A,N/A,N/A,N/A,0.51,1
+180,University 7,3.58,Bachelors,North Kyle,M,0,0,0,4,Back-end Developer,01/22,01/23,N/A,N/A,N/A,N/A,N/A,N/A,4.22,1
+181,University 162,3.44,Some College,Matthewstown,N/A,1,0,N/A,4,Technical Support Specialist,07/21,01/23,Business Analyst,04/17,06/18,N/A,N/A,N/A,8.1,0
+182,University 36,2.95,High School,Jonathanhaven,F,0,0,1,4,Research Assistant,11/17,06/21,Product Manager,07/19,04/20,Back-end Developer,12/17,06/21,4.58,0
+183,University 86,3.41,Post-Doc,Jacksonchester,F,1,0,1,0,QA Analyst,05/17,11/20,System Analyst,12/18,11/22,Data Scientist,04/16,09/18,3.62,0
+184,University 144,3.05,Bachelors,Tylerville,M,0,0,N/A,3,Research Assistant,05/17,03/21,Network Administrator,07/17,06/20,Database Administrator,11/18,07/21,3.17,1
+185,University 187,2.97,Bachelors,South Teresa,M,1,0,1,0,System Analyst,06/21,04/23,Business Analyst,07/16,09/19,N/A,N/A,N/A,1.4,0
+186,University 111,3.02,Masters,Martinezview,N/A,0,0,1,0,Front-end Developer,08/22,04/26,Research Assistant,11/18,08/22,Full-stack Developer,12/18,04/20,3.01,0
+187,University 64,2.92,Post-Doc,West Marie,N/A,0,0,N/A,3,Full-stack Developer,02/22,03/24,Data Analyst,01/23,11/24,IT Manager,08/20,11/22,6.61,0
+188,University 43,3.4,Post-Doc,East John,M,0,0,N/A,0,Data Analyst,11/18,02/20,Data Scientist,05/17,02/19,N/A,N/A,N/A,5.73,0
+189,University 170,3.12,Bachelors,Williechester,M,1,0,N/A,4,Research Assistant,03/23,07/26,Back-end Developer,10/18,01/19,Network Administrator,10/16,11/19,4.34,0
+190,University 21,3.98,Masters,East Robertborough,N/A,N/A,1,0,0,Teaching Assistant,07/16,12/17,System Analyst,10/22,11/23,Network Administrator,11/22,08/25,4.3,0
+191,University 87,3.76,Post-Doc,Port Amberborough,F,N/A,0,N/A,3,IT Manager,07/17,06/18,Database Administrator,03/22,10/25,N/A,N/A,N/A,9.77,0
+192,University 144,2.92,Some College,Lake Andrewburgh,M,1,1,1,3,Full-stack Developer,12/17,12/18,UX Designer,03/23,10/24,IT Manager,07/19,12/19,8.63,0
+193,University 177,3.79,Some College,Benjaminshire,F,N/A,0,0,0,IT Manager,03/17,08/17,Developer,02/20,08/23,N/A,N/A,N/A,6.57,0
+194,University 139,3.12,Some College,New Robertmouth,N/A,1,1,1,0,Business Analyst,12/16,09/20,Teaching Assistant,11/19,07/21,N/A,N/A,N/A,0.25,0
+195,University 30,3.39,Masters,Walterland,M,1,0,1,0,Research Assistant,07/22,12/25,IT Manager,12/21,02/24,Full-stack Developer,10/22,03/25,1.38,0
+196,University 61,3.5,Some College,West Bruce,F,1,1,1,4,Database Administrator,11/16,04/18,N/A,N/A,N/A,N/A,N/A,N/A,2.51,0
+197,University 144,3.25,Bachelors,North Clifford,N/A,0,1,1,4,Applications Developer,04/18,10/20,Web Developer,05/20,03/22,Data Scientist,12/19,10/21,4.43,0
+198,University 121,3.53,Bachelors,North Christopher,N/A,0,1,0,0,Research Assistant,05/19,02/21,N/A,N/A,N/A,N/A,N/A,N/A,6.87,0
+199,University 116,3.07,High School,East Melissa,N/A,0,0,N/A,3,Full-stack Developer,12/17,08/21,N/A,N/A,N/A,N/A,N/A,N/A,1.0,0
+200,University 184,3.22,Masters,Ricefort,F,0,1,N/A,4,System Analyst,11/20,07/24,System Analyst,08/16,06/18,N/A,N/A,N/A,8.15,0
+201,University 70,3.95,High School,Romeroton,M,1,0,1,3,Applications Developer,09/19,03/22,N/A,N/A,N/A,N/A,N/A,N/A,5.41,1
+202,University 2,3.62,Some College,New Elizabethtown,M,N/A,0,N/A,3,Applications Developer,09/22,03/25,N/A,N/A,N/A,N/A,N/A,N/A,9.67,0
+203,University 87,3.71,Some College,Williamfort,N/A,0,0,1,4,Teaching Assistant,01/19,06/19,Full-stack Developer,08/19,01/22,UX Designer,07/17,06/18,8.59,0
+204,University 97,3.46,Bachelors,New Richardmouth,M,1,0,N/A,3,IT Manager,08/16,11/17,Back-end Developer,12/18,03/20,N/A,N/A,N/A,3.79,1
+205,University 7,3.34,Masters,West Karenhaven,N/A,0,0,0,3,Technical Support Specialist,08/18,10/21,UX Designer,04/20,11/21,Developer,01/22,11/24,2.18,0
+206,University 37,3.63,Phd,South Michael,M,N/A,0,N/A,0,System Analyst,11/20,06/24,Database Administrator,03/21,01/25,Technical Support Specialist,10/20,06/24,4.45,0
+207,University 192,2.81,Some College,Port Justin,F,0,1,0,3,Applications Developer,04/17,11/19,Web Developer,12/22,05/24,Full-stack Developer,02/23,03/26,9.61,0
+208,University 103,4.0,Post-Doc,Danaport,F,1,1,N/A,2,Applications Developer,03/21,11/24,System Analyst,01/21,10/22,System Analyst,04/23,01/27,4.84,0
+209,University 53,3.32,Masters,Kristibury,F,0,1,N/A,3,Teaching Assistant,04/19,06/19,System Analyst,07/20,05/23,Teaching Assistant,03/19,05/19,6.35,0
+210,University 175,2.85,Phd,Allenton,F,0,1,N/A,3,System Analyst,11/16,10/19,Developer,07/18,03/20,Network Administrator,01/22,08/23,2.71,0
+211,University 8,2.9,Masters,North Mollyfurt,M,1,0,0,4,Data Scientist,12/22,05/24,Data Scientist,04/17,12/18,N/A,N/A,N/A,5.32,0
+212,University 45,3.4,Bachelors,Vazquezbury,M,1,1,1,3,Teaching Assistant,11/22,01/23,Data Scientist,12/16,06/17,N/A,N/A,N/A,5.59,0
+213,University 168,3.18,Phd,New Erikborough,F,N/A,1,1,3,Full-stack Developer,09/18,12/19,Technical Support Specialist,01/22,03/24,Developer,10/22,07/24,0.83,1
+214,University 116,3.48,Some College,Bensonside,F,N/A,0,1,3,Technical Support Specialist,07/21,06/24,Software Engineer,10/20,10/22,Data Scientist,12/18,08/19,6.35,0
+215,University 191,3.56,Post-Doc,South Ashleyton,M,N/A,1,0,0,System Analyst,10/21,05/25,N/A,N/A,N/A,N/A,N/A,N/A,7.25,0
+216,University 109,3.65,Bachelors,Adamsfurt,M,1,0,N/A,3,Research Assistant,06/17,07/20,Data Scientist,02/22,10/24,Front-end Developer,07/19,04/23,8.07,0
+217,University 21,3.36,Bachelors,New Lindabury,N/A,1,0,0,0,Technical Support Specialist,07/18,02/20,N/A,N/A,N/A,N/A,N/A,N/A,5.63,0
+218,University 108,2.81,Masters,West Lindsayburgh,M,1,0,1,3,IT Manager,02/19,07/20,Software Engineer,06/18,12/18,Data Scientist,01/21,09/23,9.72,0
+219,University 180,3.18,Phd,Brownhaven,F,1,0,0,4,System Analyst,08/21,02/24,IT Manager,09/21,04/25,N/A,N/A,N/A,4.78,0
+220,University 71,3.84,Bachelors,Sonyaborough,N/A,1,0,N/A,0,QA Analyst,01/18,01/19,Developer,09/20,02/22,N/A,N/A,N/A,4.35,0
+221,University 123,3.39,High School,Ericberg,N/A,0,1,0,3,Network Administrator,12/20,12/23,Research Assistant,05/18,12/20,N/A,N/A,N/A,2.52,0
+222,University 153,3.23,Some College,Port Rachel,M,1,1,1,3,Developer,12/19,01/23,Data Analyst,03/17,03/18,Database Administrator,10/17,02/18,1.4,0
+223,University 177,3.98,Post-Doc,Moorefurt,M,0,0,N/A,4,Research Assistant,01/21,09/22,Back-end Developer,12/21,09/25,N/A,N/A,N/A,7.22,1
+224,University 139,3.68,High School,North Jamesside,M,0,1,1,2,Developer,11/16,11/18,N/A,N/A,N/A,N/A,N/A,N/A,5.12,1
+225,University 185,2.8,Post-Doc,Hallborough,M,0,0,1,4,Teaching Assistant,05/19,08/21,Data Analyst,05/19,07/20,System Analyst,06/21,09/21,1.46,0
+226,University 143,3.51,High School,Dylantown,N/A,0,1,N/A,3,Web Developer,04/23,12/26,Software Engineer,11/19,03/23,N/A,N/A,N/A,4.2,0
+227,University 46,3.88,Post-Doc,Lopezside,N/A,N/A,0,N/A,3,Product Manager,04/21,05/22,Business Analyst,06/17,01/20,Research Assistant,03/21,07/24,3.43,0
+228,University 135,3.74,Post-Doc,Hinesmouth,M,0,0,0,3,Front-end Developer,05/20,09/22,Full-stack Developer,11/21,08/24,N/A,N/A,N/A,7.85,1
+229,University 137,2.89,Phd,North Stephenside,M,0,0,1,4,Business Analyst,12/19,09/21,Back-end Developer,08/19,10/21,N/A,N/A,N/A,5.14,0
+230,University 77,3.68,Bachelors,Morganbury,N/A,0,0,0,3,Database Administrator,03/19,11/22,Developer,04/18,09/19,N/A,N/A,N/A,9.7,0
+231,University 68,2.88,Bachelors,Susanport,F,N/A,1,N/A,3,Business Analyst,11/16,02/17,Software Engineer,11/17,10/20,Applications Developer,07/22,02/25,6.92,0
+232,University 23,3.08,Some College,Nancyborough,N/A,0,1,0,3,IT Manager,01/22,01/23,Developer,09/16,08/20,N/A,N/A,N/A,3.45,0
+233,University 58,3.61,High School,West Ashleymouth,M,N/A,1,N/A,3,UX Designer,08/17,02/19,Full-stack Developer,12/20,11/21,Network Administrator,06/16,06/19,9.62,0
+234,University 16,3.99,Post-Doc,Nicolebury,M,0,1,N/A,3,Research Assistant,02/23,11/26,N/A,N/A,N/A,N/A,N/A,N/A,2.7,0
+235,University 128,3.97,Post-Doc,North Gabriel,M,N/A,1,N/A,0,IT Manager,11/17,11/18,Web Developer,06/17,02/20,N/A,N/A,N/A,3.81,0
+236,University 97,3.6,Post-Doc,Port Brentstad,N/A,0,0,N/A,3,Applications Developer,10/22,04/25,Applications Developer,10/18,03/22,N/A,N/A,N/A,2.12,0
+237,University 199,3.82,Post-Doc,East Charlesland,M,1,1,1,0,Teaching Assistant,02/22,02/24,Applications Developer,10/16,12/19,Research Assistant,08/18,12/18,6.8,0
+238,University 5,3.28,Masters,South Alisha,M,N/A,1,1,0,Front-end Developer,07/18,11/20,UX Designer,11/16,03/17,Developer,07/21,11/22,3.18,0
+239,University 173,3.64,High School,Jesseville,N/A,0,1,1,4,IT Manager,12/18,11/21,Back-end Developer,09/22,12/25,Database Administrator,04/16,12/19,5.83,0
+240,University 117,3.35,Phd,West Mark,N/A,0,1,1,0,Developer,01/20,05/22,System Analyst,04/17,07/20,Applications Developer,05/18,05/19,1.52,0
+241,University 155,2.87,Phd,South Edward,M,1,1,0,3,Full-stack Developer,03/19,02/23,Business Analyst,02/18,04/20,N/A,N/A,N/A,0.63,0
+242,University 106,3.93,Masters,Karenville,M,1,0,0,0,Technical Support Specialist,01/21,11/24,Full-stack Developer,12/16,05/19,System Analyst,07/22,10/22,8.15,0
+243,University 75,2.93,Phd,Jenniferbury,M,N/A,0,0,0,Applications Developer,12/19,01/21,N/A,N/A,N/A,N/A,N/A,N/A,8.72,0
+244,University 175,2.98,High School,New Jennifer,F,1,1,0,0,Developer,06/19,11/22,N/A,N/A,N/A,N/A,N/A,N/A,3.78,0
+245,University 82,3.53,Phd,Nicholsview,F,N/A,0,N/A,4,Back-end Developer,12/18,08/22,IT Manager,08/21,07/22,Technical Support Specialist,07/21,02/23,8.57,1
+246,University 105,3.17,Post-Doc,New Molly,M,0,1,0,0,IT Manager,09/18,07/20,Data Analyst,04/23,06/26,N/A,N/A,N/A,9.92,1
+247,University 90,3.09,Bachelors,Hansonfurt,F,N/A,1,1,3,Technical Support Specialist,03/20,07/20,IT Manager,10/18,12/18,Data Analyst,10/18,06/21,1.53,0
+248,University 78,2.89,Phd,Parkerburgh,M,0,1,0,4,Technical Support Specialist,07/17,08/19,N/A,N/A,N/A,N/A,N/A,N/A,9.34,1
+249,University 71,3.18,High School,Smithville,F,N/A,0,N/A,0,Full-stack Developer,08/16,03/19,UX Designer,07/17,07/18,N/A,N/A,N/A,8.55,0
+250,University 88,3.87,Bachelors,New Jillland,M,1,1,1,3,Back-end Developer,09/20,05/22,Software Engineer,07/19,10/21,N/A,N/A,N/A,1.39,1
+251,University 42,2.84,Masters,West Michelleburgh,F,N/A,0,N/A,3,Front-end Developer,07/16,11/16,Developer,02/19,01/21,Back-end Developer,04/17,09/19,0.36,0
+252,University 100,3.77,Masters,Port Ryanfort,M,N/A,0,1,0,Web Developer,11/19,01/21,QA Analyst,11/16,05/20,Applications Developer,10/21,09/22,3.9,0
+253,University 11,3.86,Post-Doc,Paulshire,F,N/A,1,0,3,Research Assistant,02/18,09/21,N/A,N/A,N/A,N/A,N/A,N/A,9.71,0
+254,University 108,3.52,High School,Kelliview,N/A,N/A,1,N/A,0,Developer,05/17,03/20,Developer,08/17,01/20,N/A,N/A,N/A,1.06,0
+255,University 171,3.66,Some College,Kathleenfurt,M,N/A,0,N/A,0,UX Designer,11/21,12/24,Front-end Developer,03/21,03/23,Developer,06/20,08/22,7.68,0
+256,University 123,3.49,Masters,Lake Robert,M,N/A,1,0,0,Developer,02/22,06/24,N/A,N/A,N/A,N/A,N/A,N/A,0.13,0
+257,University 194,3.1,Bachelors,Paulberg,F,N/A,0,1,0,Developer,08/21,10/22,Network Administrator,03/23,01/25,N/A,N/A,N/A,5.11,0
+258,University 142,3.71,High School,Lake Kaitlinberg,M,N/A,0,1,4,Applications Developer,06/18,12/19,IT Manager,08/20,03/21,Network Administrator,01/20,05/23,3.96,0
+259,University 66,3.1,Phd,Samanthafurt,F,1,0,0,2,Software Engineer,06/18,01/19,Business Analyst,05/22,02/25,Teaching Assistant,04/17,11/17,0.03,0
+260,University 138,3.76,Bachelors,Garrettland,M,N/A,0,0,4,Data Analyst,07/22,03/24,Teaching Assistant,01/18,01/20,N/A,N/A,N/A,3.52,0
+261,University 72,3.74,High School,Lake Whitney,N/A,1,1,1,0,Back-end Developer,12/17,10/21,UX Designer,10/16,05/18,Back-end Developer,11/22,08/23,7.54,0
+262,University 177,3.29,Phd,Nelsonbury,M,N/A,1,N/A,0,Web Developer,09/20,03/24,Developer,09/17,11/19,Technical Support Specialist,02/22,03/23,2.22,0
+263,University 23,3.85,Phd,East Danielleshire,F,0,1,N/A,3,Technical Support Specialist,07/18,12/20,Back-end Developer,05/19,01/22,N/A,N/A,N/A,3.35,0
+264,University 99,3.09,Masters,Michaelshire,N/A,1,0,1,0,Developer,12/22,07/25,Data Scientist,09/22,03/24,N/A,N/A,N/A,9.92,0
+265,University 56,3.41,Post-Doc,South Juan,M,1,0,N/A,4,Developer,03/17,05/20,QA Analyst,07/17,01/21,Research Assistant,04/22,03/26,5.23,1
+266,University 68,3.13,Post-Doc,South Joechester,M,0,0,N/A,3,Product Manager,12/20,11/22,N/A,N/A,N/A,N/A,N/A,N/A,6.08,1
+267,University 38,3.53,Masters,Mcdonaldtown,M,1,1,1,3,Applications Developer,07/22,04/24,Developer,12/21,10/22,Full-stack Developer,10/20,09/23,4.7,0
+268,University 129,2.85,Bachelors,Lake Steven,F,0,0,N/A,0,Full-stack Developer,01/17,10/18,Web Developer,02/19,03/19,Web Developer,08/18,07/22,0.9,1
+269,University 95,3.94,Bachelors,Coffeyland,N/A,N/A,1,1,2,Applications Developer,12/22,02/24,Developer,02/18,05/20,N/A,N/A,N/A,9.86,0
+270,University 29,3.44,Post-Doc,South Hannah,N/A,N/A,1,1,4,Product Manager,10/20,12/22,Database Administrator,12/19,11/22,Front-end Developer,11/22,09/25,0.47,0
+271,University 159,3.21,Some College,Lake Charles,F,1,0,N/A,3,UX Designer,12/21,08/24,N/A,N/A,N/A,N/A,N/A,N/A,9.37,0
+272,University 119,3.14,Some College,Port Jenniferville,M,N/A,1,0,0,Back-end Developer,04/19,11/22,System Analyst,10/22,05/26,N/A,N/A,N/A,4.16,1
+273,University 31,3.06,Phd,Stephanietown,M,0,1,N/A,0,Front-end Developer,12/19,05/22,Teaching Assistant,09/19,04/20,N/A,N/A,N/A,5.99,0
+274,University 72,3.79,High School,New Jenniferborough,F,N/A,1,N/A,2,Business Analyst,06/19,10/22,N/A,N/A,N/A,N/A,N/A,N/A,9.03,1
+275,University 145,3.78,Phd,Jamesside,M,0,0,1,0,Technical Support Specialist,08/17,07/19,N/A,N/A,N/A,N/A,N/A,N/A,4.03,0
+276,University 198,3.86,High School,Tiffanymouth,F,N/A,1,0,4,Developer,05/17,10/20,Data Analyst,04/20,06/21,N/A,N/A,N/A,5.03,1
+277,University 114,3.84,Some College,Port Jeffrey,N/A,1,1,N/A,3,Developer,03/20,06/20,Technical Support Specialist,06/18,01/20,Data Analyst,09/17,05/19,2.81,0
+278,University 2,3.39,Some College,Marytown,F,1,1,0,3,Front-end Developer,08/16,06/17,Developer,10/20,05/23,N/A,N/A,N/A,8.88,0
+279,University 10,3.0,Masters,West Nicholas,M,1,0,0,0,Back-end Developer,02/18,11/20,UX Designer,04/18,04/20,N/A,N/A,N/A,8.27,1
+280,University 67,3.83,Bachelors,Yuhaven,M,0,0,1,3,Business Analyst,10/17,10/18,Applications Developer,12/20,09/23,System Analyst,08/16,11/19,5.66,0
+281,University 29,3.52,Post-Doc,East Alfred,N/A,N/A,1,1,3,Network Administrator,09/17,01/18,Teaching Assistant,06/17,02/20,Data Scientist,03/19,09/20,9.49,0
+282,University 64,3.74,Bachelors,New Marymouth,M,1,0,0,0,Data Scientist,09/16,08/19,Database Administrator,04/22,10/24,N/A,N/A,N/A,3.72,1
+283,University 196,2.94,Post-Doc,New Margaret,N/A,1,1,1,0,Web Developer,03/23,07/23,Back-end Developer,09/20,05/21,N/A,N/A,N/A,4.64,0
+284,University 145,3.63,Post-Doc,Phillipsmouth,F,0,1,0,4,Product Manager,07/20,02/24,Developer,04/21,12/22,N/A,N/A,N/A,0.57,0
+285,University 163,3.0,Bachelors,West Jeffreyton,F,N/A,0,0,0,Technical Support Specialist,05/21,08/21,N/A,N/A,N/A,N/A,N/A,N/A,0.63,1
+286,University 121,3.03,Post-Doc,New Michaelfurt,F,N/A,0,0,4,Database Administrator,08/20,09/21,UX Designer,06/18,06/21,N/A,N/A,N/A,7.9,0
+287,University 11,3.15,Post-Doc,Clarkberg,M,0,0,0,0,Network Administrator,02/23,09/23,UX Designer,06/18,03/20,N/A,N/A,N/A,1.42,0
+288,University 105,3.63,Post-Doc,East Sergio,F,0,1,0,3,Data Analyst,05/16,01/19,Data Scientist,11/16,12/19,N/A,N/A,N/A,3.86,0
+289,University 21,3.29,Post-Doc,Wesleyview,F,N/A,0,1,3,Data Analyst,12/19,03/22,Web Developer,01/18,01/20,N/A,N/A,N/A,6.98,1
+290,University 71,3.33,Some College,Hatfieldton,M,1,1,1,3,Network Administrator,12/20,09/24,N/A,N/A,N/A,N/A,N/A,N/A,3.4,1
+291,University 52,3.41,Phd,North Madisonview,N/A,1,1,N/A,0,Database Administrator,07/17,05/18,UX Designer,05/18,05/22,Teaching Assistant,07/19,12/21,8.5,0
+292,University 93,3.49,Post-Doc,Welchstad,M,0,0,0,3,Developer,02/19,01/21,N/A,N/A,N/A,N/A,N/A,N/A,3.53,0
+293,University 145,3.3,Post-Doc,Teresabury,N/A,1,0,0,0,Data Analyst,05/22,11/23,N/A,N/A,N/A,N/A,N/A,N/A,9.79,0
+294,University 38,3.71,High School,Meganton,N/A,1,0,0,3,Data Analyst,12/18,09/20,System Analyst,07/19,09/20,Front-end Developer,06/19,08/21,6.15,0
+295,University 160,3.39,Phd,Port Krystal,M,1,0,1,3,Back-end Developer,05/16,09/18,Back-end Developer,05/16,05/18,N/A,N/A,N/A,4.18,1
+296,University 200,3.19,High School,Westland,N/A,N/A,0,1,0,Front-end Developer,10/18,01/20,Teaching Assistant,08/20,10/22,N/A,N/A,N/A,7.9,0
+297,University 24,3.22,High School,New Ryanton,F,1,1,0,3,Back-end Developer,09/20,01/21,Data Analyst,09/17,10/18,Web Developer,01/20,02/22,4.98,0
+298,University 47,3.28,Masters,New Vincentmouth,F,0,1,1,0,Technical Support Specialist,02/20,11/23,UX Designer,11/18,01/20,System Analyst,03/23,09/23,6.21,1
+299,University 189,3.97,Phd,New Kristen,F,1,1,1,3,Data Scientist,07/22,11/24,Data Scientist,11/21,04/23,IT Manager,06/20,11/21,7.14,1
+300,University 131,3.11,Post-Doc,Lake Kevin,M,N/A,1,0,3,Network Administrator,02/21,08/23,Network Administrator,05/18,08/21,N/A,N/A,N/A,5.27,1
+301,University 102,2.93,High School,North Alfredport,M,N/A,1,1,2,Full-stack Developer,03/17,08/19,N/A,N/A,N/A,N/A,N/A,N/A,4.38,1
+302,University 157,3.14,High School,South Taylorstad,F,1,0,N/A,3,Business Analyst,04/17,04/18,N/A,N/A,N/A,N/A,N/A,N/A,7.87,1
+303,University 174,3.56,Post-Doc,Lake Stevenport,F,0,0,0,3,Data Scientist,05/20,02/21,Research Assistant,02/21,08/24,Data Scientist,05/22,02/23,0.4,0
+304,University 93,2.82,Post-Doc,New Kimberly,M,0,0,1,3,Software Engineer,11/19,08/23,Business Analyst,10/19,07/21,N/A,N/A,N/A,7.58,0
+305,University 76,3.18,Phd,North Jessicaland,N/A,0,0,0,0,Data Scientist,11/19,08/21,Research Assistant,11/17,01/19,N/A,N/A,N/A,0.46,0
+306,University 21,3.89,Masters,East Erica,F,1,0,1,0,Teaching Assistant,01/22,07/25,Software Engineer,08/18,09/20,Database Administrator,08/16,06/17,9.18,0
+307,University 160,3.7,Masters,Lake Amanda,M,N/A,1,1,0,Business Analyst,10/19,12/22,N/A,N/A,N/A,N/A,N/A,N/A,5.77,0
+308,University 179,3.34,Phd,Richardmouth,N/A,N/A,1,N/A,3,IT Manager,09/19,12/21,QA Analyst,04/16,10/19,System Analyst,11/18,07/20,0.11,0
+309,University 168,3.68,Post-Doc,Williamsbury,F,0,1,0,0,Database Administrator,11/19,07/21,N/A,N/A,N/A,N/A,N/A,N/A,1.13,0
+310,University 155,3.18,High School,Port Edwardport,M,0,0,0,3,Applications Developer,07/17,10/19,Data Analyst,08/17,03/19,N/A,N/A,N/A,5.42,0
+311,University 44,3.42,High School,Johnland,F,1,0,N/A,0,Developer,12/21,03/25,Web Developer,10/22,02/25,Applications Developer,08/19,11/19,9.14,0
+312,University 11,3.16,Some College,Loganmouth,M,N/A,0,1,3,Web Developer,06/22,08/25,N/A,N/A,N/A,N/A,N/A,N/A,2.3,0
+313,University 31,3.58,Post-Doc,Port Lisafurt,M,1,0,N/A,3,Front-end Developer,01/23,10/24,Full-stack Developer,04/19,11/22,Business Analyst,07/18,01/19,9.04,0
+314,University 191,3.0,Some College,Jennifershire,F,N/A,1,0,0,Research Assistant,06/18,07/19,Software Engineer,05/21,02/25,Network Administrator,12/16,06/20,4.58,0
+315,University 47,2.91,Bachelors,East Katherine,M,1,1,N/A,0,Database Administrator,06/16,03/20,IT Manager,06/22,08/23,Network Administrator,12/18,04/21,4.63,0
+316,University 5,3.32,Post-Doc,Geraldland,N/A,0,1,0,0,Front-end Developer,12/21,05/25,Network Administrator,09/18,04/20,Full-stack Developer,09/21,10/23,0.01,0
+317,University 35,3.0,Phd,South Charles,M,1,0,0,0,Technical Support Specialist,06/16,02/19,Research Assistant,01/17,03/19,Web Developer,10/18,06/20,6.05,0
+318,University 157,3.14,Bachelors,Johnhaven,N/A,0,1,N/A,3,Web Developer,12/16,03/17,Software Engineer,09/16,07/20,N/A,N/A,N/A,3.77,0
+319,University 175,3.85,Masters,Deniseton,N/A,N/A,0,N/A,3,Web Developer,05/20,03/23,Database Administrator,10/18,01/22,N/A,N/A,N/A,8.92,0
+320,University 36,3.0,Masters,Stephaniehaven,M,1,0,1,2,Database Administrator,08/22,03/23,Data Analyst,08/22,07/23,Business Analyst,04/19,12/22,1.48,0
+321,University 188,3.51,Phd,Petersonport,M,1,1,N/A,0,QA Analyst,03/22,01/23,N/A,N/A,N/A,N/A,N/A,N/A,2.01,1
+322,University 76,3.22,Bachelors,East Joshuaton,N/A,1,1,1,3,Front-end Developer,10/19,04/20,UX Designer,07/19,11/20,IT Manager,04/21,01/25,6.6,0
+323,University 121,3.52,Some College,South Kathryn,M,N/A,0,N/A,0,Database Administrator,04/20,06/23,Software Engineer,03/23,11/23,N/A,N/A,N/A,8.22,1
+324,University 182,3.4,Phd,Port Williammouth,F,0,1,N/A,3,Network Administrator,12/16,04/18,N/A,N/A,N/A,N/A,N/A,N/A,7.47,1
+325,University 76,3.98,Phd,East Heatherburgh,N/A,0,1,N/A,0,Developer,09/18,05/22,Web Developer,07/22,09/22,IT Manager,05/22,04/24,6.61,0
+326,University 146,3.31,Post-Doc,East Sarachester,N/A,0,0,N/A,3,Software Engineer,06/22,06/25,Teaching Assistant,08/19,07/20,N/A,N/A,N/A,2.18,0
+327,University 198,3.67,High School,Woodshire,F,1,0,1,0,Technical Support Specialist,06/18,04/20,Data Analyst,07/21,03/24,Teaching Assistant,08/20,05/22,5.52,0
+328,University 13,3.06,High School,Gutierrezfurt,M,1,1,N/A,0,Developer,04/17,10/18,N/A,N/A,N/A,N/A,N/A,N/A,8.62,0
+329,University 12,3.78,High School,Bondport,M,1,0,1,3,Software Engineer,05/19,04/20,UX Designer,07/20,01/23,Back-end Developer,07/20,12/20,5.06,1
+330,University 155,3.83,High School,Annland,N/A,1,0,N/A,0,Data Scientist,09/16,02/20,Network Administrator,09/19,08/23,N/A,N/A,N/A,5.85,0
+331,University 195,3.46,Some College,West Nicolestad,M,N/A,0,0,0,Full-stack Developer,10/20,09/23,Front-end Developer,10/16,05/17,Teaching Assistant,01/21,11/21,0.8,0
+332,University 152,3.02,Phd,Nicholastown,F,1,1,1,0,Network Administrator,05/21,01/22,N/A,N/A,N/A,N/A,N/A,N/A,1.27,0
+333,University 27,2.96,Masters,Ericside,N/A,1,1,1,0,Research Assistant,08/16,09/17,Developer,01/19,07/20,N/A,N/A,N/A,1.07,0
+334,University 84,3.7,Some College,Chavezview,F,0,0,N/A,3,Database Administrator,02/17,06/17,Database Administrator,11/21,09/22,UX Designer,11/21,10/23,5.05,0
+335,University 8,2.85,Some College,Joshuaport,F,0,1,1,0,Full-stack Developer,08/22,09/25,Research Assistant,06/20,04/21,Business Analyst,04/19,08/21,1.72,0
+336,University 35,3.96,Masters,Lake Christopher,F,0,0,N/A,0,Technical Support Specialist,12/16,03/17,Business Analyst,05/17,07/19,Front-end Developer,04/18,08/18,7.59,0
+337,University 90,3.92,Bachelors,Whiteport,N/A,0,0,1,0,Full-stack Developer,10/20,01/24,Technical Support Specialist,11/20,05/23,Technical Support Specialist,01/21,01/24,1.44,0
+338,University 24,2.99,High School,Wigginsburgh,M,1,0,0,0,Data Scientist,11/21,06/22,Technical Support Specialist,12/17,07/18,N/A,N/A,N/A,8.95,0
+339,University 41,3.35,Masters,Brookestad,F,0,0,N/A,4,Teaching Assistant,01/20,01/22,N/A,N/A,N/A,N/A,N/A,N/A,0.92,1
+340,University 55,2.8,High School,Fosterborough,M,1,1,N/A,3,QA Analyst,02/21,05/22,N/A,N/A,N/A,N/A,N/A,N/A,9.54,1
+341,University 53,3.28,Bachelors,Micheleside,M,N/A,1,1,3,Database Administrator,12/20,08/24,Data Scientist,11/18,04/20,IT Manager,08/16,11/16,1.81,0
+342,University 110,3.01,High School,North David,F,1,0,0,0,Data Scientist,01/17,01/20,System Analyst,07/16,12/16,Research Assistant,06/18,03/21,1.5,0
+343,University 82,3.45,Bachelors,North Joshuamouth,M,N/A,0,0,3,Full-stack Developer,11/18,08/19,N/A,N/A,N/A,N/A,N/A,N/A,9.84,0
+344,University 194,3.0,Bachelors,East Shannon,N/A,1,0,N/A,3,Web Developer,08/17,09/18,Developer,06/21,12/23,N/A,N/A,N/A,8.49,0
+345,University 159,3.84,Post-Doc,Smithfurt,M,1,0,N/A,0,QA Analyst,03/18,09/20,Data Scientist,10/20,07/23,Network Administrator,05/20,01/21,8.73,1
+346,University 57,3.88,Masters,Lake Amber,F,N/A,1,0,3,Back-end Developer,08/22,08/24,QA Analyst,09/21,08/23,N/A,N/A,N/A,4.55,0
+347,University 137,2.93,Bachelors,East Michelle,N/A,0,0,N/A,0,Product Manager,01/19,07/19,Software Engineer,12/21,03/24,Front-end Developer,10/18,07/19,1.68,0
+348,University 151,2.82,Phd,Danieltown,M,0,0,0,0,Network Administrator,03/19,12/21,QA Analyst,03/17,04/17,Data Scientist,11/21,08/25,2.14,0
+349,University 112,3.69,Masters,New Lisaberg,M,0,0,N/A,0,UX Designer,08/22,10/22,Network Administrator,08/20,11/20,N/A,N/A,N/A,5.97,0
+350,University 170,3.51,Masters,Valerieshire,F,1,0,0,4,UX Designer,06/17,09/20,Research Assistant,03/20,06/22,Database Administrator,07/19,03/21,7.69,1
+351,University 93,3.42,Post-Doc,Brianport,F,1,1,N/A,3,Technical Support Specialist,01/17,09/17,Web Developer,12/21,12/24,N/A,N/A,N/A,2.69,0
+352,University 137,3.52,Phd,Grahamland,M,N/A,1,0,0,System Analyst,07/17,06/20,Applications Developer,10/18,11/21,Applications Developer,04/19,05/20,7.26,0
+353,University 167,3.73,Bachelors,Port Davidview,M,N/A,0,N/A,3,Product Manager,02/23,06/25,Full-stack Developer,02/20,11/23,Applications Developer,01/17,03/20,2.97,1
+354,University 57,3.12,Bachelors,Port Brandy,F,N/A,0,1,0,Database Administrator,06/21,04/23,N/A,N/A,N/A,N/A,N/A,N/A,3.68,0
+355,University 191,3.79,High School,Amystad,M,1,1,N/A,4,QA Analyst,06/22,03/26,Research Assistant,11/22,03/25,Software Engineer,02/19,11/19,8.82,0
+356,University 144,3.12,Phd,Christophertown,M,N/A,1,1,3,System Analyst,06/18,11/19,System Analyst,10/21,11/23,IT Manager,06/20,03/24,4.88,1
+357,University 190,3.93,Bachelors,Lake Keith,M,N/A,0,N/A,0,UX Designer,09/18,06/19,N/A,N/A,N/A,N/A,N/A,N/A,7.36,1
+358,University 80,3.39,Post-Doc,West Danielle,F,0,0,N/A,3,System Analyst,07/22,09/24,Data Scientist,02/21,05/22,Database Administrator,10/19,01/23,5.37,0
+359,University 117,3.57,Bachelors,South Johnmouth,F,N/A,1,N/A,3,Data Scientist,05/19,11/21,N/A,N/A,N/A,N/A,N/A,N/A,0.6,0
+360,University 169,2.9,High School,West Terryfurt,M,N/A,1,N/A,0,Teaching Assistant,06/18,05/21,N/A,N/A,N/A,N/A,N/A,N/A,2.52,0
+361,University 164,3.67,Phd,Christineport,M,1,1,N/A,0,Research Assistant,03/20,07/21,QA Analyst,11/17,03/18,N/A,N/A,N/A,3.75,0
+362,University 34,3.49,Post-Doc,Michelestad,F,N/A,0,1,2,Business Analyst,03/17,06/19,N/A,N/A,N/A,N/A,N/A,N/A,9.87,0
+363,University 92,3.83,Post-Doc,Jenniferberg,N/A,N/A,1,N/A,3,System Analyst,09/22,12/24,Developer,04/23,03/26,Applications Developer,09/17,04/21,2.34,0
+364,University 98,2.94,Phd,New Kimberly,F,N/A,1,N/A,0,Research Assistant,12/18,05/19,QA Analyst,12/22,11/24,System Analyst,10/22,07/23,2.13,0
+365,University 199,3.14,Phd,Christophertown,M,1,0,1,3,System Analyst,04/22,05/23,Software Engineer,11/18,07/20,System Analyst,12/20,12/24,7.87,0
+366,University 80,3.72,Some College,East Corey,F,1,0,N/A,0,IT Manager,08/18,06/21,N/A,N/A,N/A,N/A,N/A,N/A,4.71,1
+367,University 11,3.0,Some College,Oliverbury,M,1,0,1,3,Software Engineer,01/21,10/22,N/A,N/A,N/A,N/A,N/A,N/A,5.67,0
+368,University 126,3.18,Phd,Kellyville,M,1,1,N/A,2,System Analyst,12/22,06/24,N/A,N/A,N/A,N/A,N/A,N/A,8.78,1
+369,University 102,3.91,Phd,West Lance,M,0,1,0,0,Applications Developer,09/16,11/18,IT Manager,12/18,03/22,IT Manager,12/18,07/20,3.42,1
+370,University 90,3.51,Masters,Lake Luistown,M,1,1,1,4,Business Analyst,06/18,03/19,N/A,N/A,N/A,N/A,N/A,N/A,5.33,1
+371,University 186,3.61,Phd,Wardside,M,0,1,0,3,IT Manager,07/22,09/25,Front-end Developer,11/19,05/20,Teaching Assistant,02/21,02/22,5.9,0
+372,University 54,2.9,High School,Port Jacquelinefurt,F,N/A,1,0,0,IT Manager,12/17,02/19,Data Analyst,11/19,05/21,N/A,N/A,N/A,9.36,1
+373,University 195,2.81,Post-Doc,New Gregoryburgh,N/A,0,1,N/A,0,Applications Developer,07/18,05/21,N/A,N/A,N/A,N/A,N/A,N/A,2.76,0
+374,University 167,3.69,Phd,Hartmanburgh,F,1,1,N/A,0,Applications Developer,03/23,08/24,IT Manager,02/17,12/17,Data Analyst,09/16,10/16,6.28,0
+375,University 137,3.53,Post-Doc,Sanchezton,N/A,1,1,N/A,0,System Analyst,07/19,04/22,System Analyst,12/22,02/24,Business Analyst,06/20,02/24,1.86,0
+376,University 42,3.12,Phd,Lake Ryanburgh,F,1,0,N/A,0,Network Administrator,05/21,11/23,Product Manager,10/22,12/24,QA Analyst,08/17,02/20,6.48,0
+377,University 54,3.37,Post-Doc,Grosschester,N/A,1,0,N/A,0,System Analyst,02/22,09/24,UX Designer,09/21,04/24,N/A,N/A,N/A,2.34,0
+378,University 81,3.37,Bachelors,Wrightstad,M,N/A,0,1,4,Teaching Assistant,03/19,10/19,Business Analyst,05/20,01/23,N/A,N/A,N/A,4.74,1
+379,University 105,2.93,Phd,Justinville,F,1,0,N/A,4,Research Assistant,01/21,02/24,N/A,N/A,N/A,N/A,N/A,N/A,1.33,0
+380,University 109,3.21,Phd,North Jenniferburgh,N/A,N/A,0,0,0,Software Engineer,08/21,01/24,Software Engineer,02/22,04/24,N/A,N/A,N/A,1.98,0
+381,University 15,2.94,Phd,Lake William,F,1,1,N/A,4,Front-end Developer,02/20,03/23,Web Developer,09/21,08/25,Network Administrator,04/21,10/23,3.17,0
+382,University 11,3.36,Some College,Jenningsmouth,M,1,1,1,0,Data Analyst,10/22,05/23,N/A,N/A,N/A,N/A,N/A,N/A,3.49,1
+383,University 81,3.89,Some College,Lisamouth,M,N/A,0,0,3,Back-end Developer,11/20,09/21,Business Analyst,06/18,06/20,N/A,N/A,N/A,9.04,0
+384,University 189,3.25,Bachelors,North John,M,0,1,N/A,0,Database Administrator,10/20,05/22,Applications Developer,08/20,06/22,N/A,N/A,N/A,9.19,0
+385,University 110,3.25,Masters,North Alyssatown,N/A,N/A,1,1,3,Web Developer,10/17,05/18,N/A,N/A,N/A,N/A,N/A,N/A,7.78,0
+386,University 121,3.6,Phd,New Kenneth,M,1,0,N/A,0,Business Analyst,09/17,03/19,N/A,N/A,N/A,N/A,N/A,N/A,3.64,0
+387,University 42,3.14,Post-Doc,Lynchberg,N/A,1,1,0,0,IT Manager,06/20,09/21,Data Scientist,03/19,06/22,N/A,N/A,N/A,7.21,0
+388,University 151,3.83,High School,Lake Kimberly,M,0,1,1,0,Applications Developer,10/18,07/19,IT Manager,05/19,08/22,UX Designer,11/16,10/17,6.62,0
+389,University 107,3.24,Masters,North Steven,M,N/A,0,1,0,Product Manager,10/22,09/24,Research Assistant,02/21,10/21,N/A,N/A,N/A,3.49,0
+390,University 94,3.66,High School,Port Racheltown,F,1,1,1,4,Software Engineer,06/19,08/20,Research Assistant,06/22,09/25,System Analyst,05/20,09/21,2.46,0
+391,University 63,2.96,High School,East Jamesshire,N/A,1,0,N/A,3,Data Scientist,03/22,12/23,Data Scientist,12/21,01/24,Business Analyst,05/17,09/20,4.99,0
+392,University 81,3.05,Bachelors,North Stephanietown,F,1,0,0,3,Technical Support Specialist,04/18,11/18,Developer,01/17,12/18,N/A,N/A,N/A,9.17,0
+393,University 9,3.73,High School,Judyfurt,F,N/A,1,1,0,Applications Developer,04/18,07/18,UX Designer,08/17,10/17,Developer,01/20,04/21,9.13,0
+394,University 172,3.21,Bachelors,Port Kimberly,M,N/A,1,N/A,4,Web Developer,07/22,01/26,Back-end Developer,07/18,10/18,N/A,N/A,N/A,5.87,0
+395,University 76,3.32,Post-Doc,Jonathanton,N/A,0,1,N/A,0,QA Analyst,04/22,06/22,Teaching Assistant,12/18,04/19,Teaching Assistant,11/19,08/21,0.99,0
+396,University 115,3.04,Post-Doc,East Kimberly,M,N/A,1,N/A,4,Full-stack Developer,10/19,01/23,System Analyst,01/22,09/23,Back-end Developer,09/18,09/20,2.81,0
+397,University 45,2.92,Phd,Aprilfort,N/A,0,0,0,0,System Analyst,10/22,11/23,Business Analyst,11/18,02/20,Web Developer,08/16,09/18,1.52,0
+398,University 103,3.34,Some College,Pattersonmouth,M,N/A,1,N/A,0,Research Assistant,08/20,04/24,Developer,07/22,01/25,Back-end Developer,10/22,08/24,5.27,1
+399,University 95,3.51,High School,New Melissa,N/A,1,0,1,0,Technical Support Specialist,03/17,06/20,System Analyst,03/18,01/20,Developer,12/17,01/21,6.02,0
+400,University 148,3.08,Phd,Gouldfort,M,1,1,0,3,QA Analyst,03/18,09/21,System Analyst,03/23,07/23,Network Administrator,05/19,02/23,0.52,1
+401,University 128,3.83,Some College,Lindseyberg,M,1,1,1,0,QA Analyst,08/16,06/20,System Analyst,09/19,11/19,N/A,N/A,N/A,4.73,0
+402,University 5,3.5,Some College,Petersenmouth,F,1,1,0,0,System Analyst,09/16,12/18,Front-end Developer,04/23,05/25,N/A,N/A,N/A,5.59,0
+403,University 138,3.23,High School,West Zachary,M,0,1,N/A,0,Back-end Developer,12/21,11/24,Business Analyst,01/17,09/19,Software Engineer,11/20,08/22,6.77,0
+404,University 160,2.93,Masters,Michelefurt,N/A,N/A,1,0,4,Database Administrator,10/19,06/23,IT Manager,09/22,08/23,N/A,N/A,N/A,5.34,0
+405,University 162,3.68,Some College,Kathrynfurt,M,1,0,0,2,Teaching Assistant,07/21,02/23,Teaching Assistant,03/22,12/22,N/A,N/A,N/A,3.3,1
+406,University 110,3.63,Phd,Sloanbury,M,N/A,1,N/A,4,Full-stack Developer,08/21,04/24,System Analyst,08/17,12/17,Developer,05/17,09/18,6.04,0
+407,University 156,3.18,Bachelors,Anthonytown,N/A,0,1,0,2,UX Designer,01/17,05/19,N/A,N/A,N/A,N/A,N/A,N/A,5.62,0
+408,University 47,3.83,Some College,Port Briantown,M,N/A,0,0,3,Network Administrator,03/23,09/25,N/A,N/A,N/A,N/A,N/A,N/A,0.17,1
+409,University 113,2.9,Masters,New Juliafort,M,N/A,0,N/A,3,Data Analyst,01/21,09/22,Data Analyst,03/18,10/20,Front-end Developer,07/22,07/25,3.51,0
+410,University 49,3.18,Bachelors,Michelemouth,F,0,1,N/A,2,Business Analyst,09/20,01/21,System Analyst,09/22,07/23,Business Analyst,06/20,12/22,5.78,1
+411,University 170,2.8,High School,Amyview,F,0,0,1,3,Business Analyst,05/16,01/19,Research Assistant,11/21,04/23,Technical Support Specialist,11/17,07/19,4.63,0
+412,University 198,3.23,Some College,Smithhaven,F,0,1,N/A,2,Teaching Assistant,07/19,12/22,Network Administrator,05/18,06/21,N/A,N/A,N/A,6.05,0
+413,University 111,3.57,Phd,North John,F,N/A,1,0,3,Technical Support Specialist,03/23,07/26,Data Analyst,02/17,07/20,N/A,N/A,N/A,5.89,0
+414,University 17,2.81,Post-Doc,East Charlestown,M,1,0,1,0,Back-end Developer,12/22,05/23,Software Engineer,02/18,10/18,N/A,N/A,N/A,4.29,0
+415,University 117,3.64,Masters,Suzannetown,N/A,N/A,1,0,3,QA Analyst,01/19,02/21,N/A,N/A,N/A,N/A,N/A,N/A,0.16,0
+416,University 1,3.56,Bachelors,Stewarthaven,F,1,0,0,3,Developer,10/19,10/21,QA Analyst,09/18,02/21,N/A,N/A,N/A,3.17,0
+417,University 101,2.81,Some College,Garyshire,M,1,1,1,4,Product Manager,05/22,01/23,Research Assistant,05/20,09/20,Data Analyst,08/22,08/24,9.81,0
+418,University 164,3.45,Some College,Charleshaven,M,1,1,0,3,Product Manager,09/18,07/19,System Analyst,04/19,01/20,Network Administrator,12/17,08/18,4.73,0
+419,University 98,3.59,High School,North Kimville,N/A,0,1,N/A,0,Teaching Assistant,02/18,05/19,IT Manager,06/19,01/22,Data Scientist,09/17,05/21,7.47,0
+420,University 66,3.31,Bachelors,Port Raymond,N/A,N/A,0,N/A,2,Research Assistant,01/18,11/19,N/A,N/A,N/A,N/A,N/A,N/A,2.81,0
+421,University 15,3.62,High School,Kimberlyfort,F,0,1,0,3,QA Analyst,02/17,08/18,Full-stack Developer,01/20,06/21,N/A,N/A,N/A,6.9,0
+422,University 189,3.0,Phd,Wellsstad,M,1,0,1,0,Developer,04/21,07/23,Research Assistant,08/21,10/21,QA Analyst,03/20,01/21,9.6,0
+423,University 9,3.09,High School,West Garyshire,N/A,N/A,1,0,0,QA Analyst,03/21,09/22,Software Engineer,05/22,10/23,Full-stack Developer,08/22,09/23,6.37,0
+424,University 108,3.71,High School,Barberfort,N/A,0,1,N/A,4,Teaching Assistant,08/21,11/21,Data Analyst,06/20,01/22,N/A,N/A,N/A,3.21,0
+425,University 100,2.89,Phd,Port Sheilaburgh,M,1,1,1,4,UX Designer,02/23,02/26,Software Engineer,09/17,06/20,Developer,09/21,08/23,7.2,0
+426,University 90,3.32,Bachelors,Lake James,F,0,0,0,3,IT Manager,04/16,11/17,Applications Developer,07/22,07/23,Software Engineer,06/19,01/20,4.37,0
+427,University 190,2.99,Phd,Lake David,F,N/A,0,1,0,Software Engineer,11/19,04/22,System Analyst,05/21,02/25,N/A,N/A,N/A,3.93,0
+428,University 172,3.68,Masters,West Wayne,N/A,1,0,1,3,Web Developer,01/18,05/18,Software Engineer,08/16,12/17,UX Designer,02/20,12/22,5.74,0
+429,University 182,3.32,Masters,Stevenside,M,0,1,N/A,3,UX Designer,12/21,07/23,Database Administrator,04/23,10/25,IT Manager,04/21,09/24,3.19,0
+430,University 172,3.1,Bachelors,Mcdanielport,M,1,1,0,3,Developer,11/17,02/18,Technical Support Specialist,05/22,03/25,N/A,N/A,N/A,6.39,1
+431,University 70,3.89,Masters,Holtstad,N/A,0,1,1,4,Teaching Assistant,01/21,12/21,N/A,N/A,N/A,N/A,N/A,N/A,2.09,0
+432,University 185,3.17,High School,Paulbury,M,N/A,0,0,4,System Analyst,08/18,09/19,Technical Support Specialist,11/22,04/23,System Analyst,01/17,09/20,7.28,0
+433,University 44,2.9,Some College,West Matthew,N/A,1,0,N/A,4,QA Analyst,12/17,11/18,N/A,N/A,N/A,N/A,N/A,N/A,5.93,0
+434,University 37,3.74,Post-Doc,Smithmouth,F,1,0,N/A,0,Front-end Developer,08/22,02/23,N/A,N/A,N/A,N/A,N/A,N/A,1.84,0
+435,University 155,3.78,Post-Doc,Cookchester,F,N/A,0,1,3,Software Engineer,05/16,08/16,Web Developer,08/19,08/22,IT Manager,06/17,09/17,0.01,0
+436,University 17,2.92,Bachelors,New Tracystad,M,1,1,1,3,Network Administrator,10/18,06/22,System Analyst,02/22,07/22,N/A,N/A,N/A,7.58,0
+437,University 193,3.65,Some College,Pattersonhaven,F,1,0,0,3,Back-end Developer,04/19,04/23,Developer,09/20,04/24,Network Administrator,05/16,02/18,3.47,0
+438,University 151,3.72,Post-Doc,Watkinsstad,M,1,1,0,0,IT Manager,09/17,07/21,Applications Developer,11/16,05/17,System Analyst,08/18,10/21,7.68,0
+439,University 132,3.5,Post-Doc,Fordmouth,F,0,0,1,0,QA Analyst,09/21,04/22,Data Analyst,05/20,11/23,N/A,N/A,N/A,2.16,0
+440,University 119,3.83,Phd,Stevensport,F,1,0,1,3,IT Manager,06/17,03/19,Full-stack Developer,03/22,02/23,Product Manager,01/23,11/25,5.54,1
+441,University 139,3.66,High School,South Carlberg,N/A,0,0,N/A,0,QA Analyst,08/19,12/21,Product Manager,12/17,07/20,Full-stack Developer,08/22,07/26,0.31,0
+442,University 193,3.53,Post-Doc,East Nathanberg,M,0,1,1,2,System Analyst,09/17,06/18,Business Analyst,02/23,09/25,N/A,N/A,N/A,7.0,1
+443,University 32,3.62,High School,Eatonland,F,1,0,1,0,IT Manager,09/21,11/21,N/A,N/A,N/A,N/A,N/A,N/A,8.61,1
+444,University 18,3.92,Phd,Pearsonberg,M,1,1,1,3,Product Manager,02/19,10/20,Business Analyst,01/19,03/19,N/A,N/A,N/A,5.91,0
+445,University 109,3.85,Post-Doc,New Aaronmouth,F,N/A,1,0,0,System Analyst,05/16,02/18,Full-stack Developer,02/23,12/26,Product Manager,03/23,11/25,2.13,0
+446,University 122,3.77,High School,Destinyberg,M,N/A,0,N/A,3,Full-stack Developer,10/16,12/18,Web Developer,03/20,09/22,N/A,N/A,N/A,4.43,0
+447,University 176,3.54,Some College,New Christine,F,0,0,1,3,QA Analyst,02/20,01/24,Full-stack Developer,07/21,11/23,Front-end Developer,10/19,10/21,1.16,1
+448,University 38,3.19,Post-Doc,Garzaland,N/A,0,0,N/A,3,Data Analyst,09/22,02/24,Technical Support Specialist,06/22,11/23,Research Assistant,04/23,04/26,1.12,0
+449,University 165,2.84,Masters,Laratown,M,N/A,0,N/A,3,UX Designer,09/21,03/24,Data Scientist,01/20,05/22,N/A,N/A,N/A,9.04,1
+450,University 80,3.64,Phd,South Jeffreyport,F,N/A,1,1,3,Product Manager,07/19,06/20,Full-stack Developer,12/22,06/23,N/A,N/A,N/A,5.79,0
+451,University 31,3.67,Some College,Spencerchester,M,0,0,1,3,UX Designer,11/17,04/20,N/A,N/A,N/A,N/A,N/A,N/A,6.57,1
+452,University 159,2.9,Post-Doc,Haysborough,M,0,0,1,0,Front-end Developer,09/21,01/23,Research Assistant,12/22,10/24,N/A,N/A,N/A,4.49,1
+453,University 5,3.44,Bachelors,East Nathan,F,N/A,1,0,0,UX Designer,01/20,02/21,Front-end Developer,12/21,03/23,Teaching Assistant,06/17,06/20,1.83,0
+454,University 193,2.83,Masters,Arnoldberg,M,N/A,0,1,3,Front-end Developer,12/16,01/18,System Analyst,09/16,04/20,N/A,N/A,N/A,9.28,1
+455,University 134,3.5,Some College,North Brianview,N/A,N/A,1,N/A,0,Teaching Assistant,10/21,06/23,Software Engineer,07/21,01/24,N/A,N/A,N/A,2.19,0
+456,University 156,3.62,High School,West Jacksonmouth,M,N/A,1,1,0,Business Analyst,08/17,10/17,N/A,N/A,N/A,N/A,N/A,N/A,2.59,0
+457,University 54,3.52,High School,Kathleenbury,F,1,0,0,3,Teaching Assistant,03/18,10/18,Data Analyst,08/21,01/22,N/A,N/A,N/A,7.07,0
+458,University 137,3.53,Bachelors,South Michaelside,M,0,0,0,0,QA Analyst,03/18,09/18,Back-end Developer,02/17,01/20,N/A,N/A,N/A,0.95,1
+459,University 166,3.96,High School,Melanietown,M,0,1,1,3,Database Administrator,10/20,06/23,N/A,N/A,N/A,N/A,N/A,N/A,2.03,0
+460,University 51,2.98,Post-Doc,Ballfurt,F,1,1,0,0,Front-end Developer,02/21,08/23,UX Designer,01/18,11/19,N/A,N/A,N/A,3.62,0
+461,University 89,3.73,Phd,Flynnton,N/A,0,0,N/A,0,Back-end Developer,09/22,06/24,UX Designer,11/20,08/21,Developer,01/17,09/18,3.62,0
+462,University 80,3.06,High School,Port Natalie,F,N/A,0,N/A,3,Database Administrator,08/17,10/19,Product Manager,08/22,06/23,Network Administrator,04/21,12/22,1.58,1
+463,University 69,3.36,Post-Doc,Mariamouth,M,0,1,1,0,Research Assistant,04/19,04/23,Front-end Developer,12/19,06/22,N/A,N/A,N/A,7.75,1
+464,University 181,2.88,Masters,Port Johnnychester,M,N/A,0,0,0,IT Manager,06/18,06/20,N/A,N/A,N/A,N/A,N/A,N/A,9.58,0
+465,University 73,3.88,Some College,Lawsonbury,N/A,1,1,0,4,Research Assistant,01/19,10/20,Business Analyst,05/22,06/23,Teaching Assistant,01/22,02/25,9.07,0
+466,University 111,2.82,Bachelors,Stephanietown,F,N/A,0,1,4,Teaching Assistant,08/20,11/20,QA Analyst,10/18,07/21,Product Manager,08/21,12/23,8.84,0
+467,University 127,3.04,Bachelors,New Elizabethside,N/A,N/A,0,1,4,System Analyst,06/16,09/17,Research Assistant,04/21,08/23,Research Assistant,03/19,01/23,0.81,0
+468,University 140,3.61,High School,Millerside,M,0,0,N/A,4,UX Designer,01/22,08/22,Research Assistant,12/17,08/18,Back-end Developer,11/22,12/24,4.3,0
+469,University 139,3.41,Post-Doc,New Williamview,F,1,0,N/A,4,Full-stack Developer,10/18,09/19,N/A,N/A,N/A,N/A,N/A,N/A,7.47,0
+470,University 76,2.85,High School,Catherineburgh,N/A,1,0,0,0,Full-stack Developer,11/21,10/23,Research Assistant,03/17,10/17,Software Engineer,06/18,06/21,6.74,0
+471,University 87,2.97,High School,Lake Jennifertown,N/A,N/A,1,N/A,0,Data Scientist,11/16,09/20,QA Analyst,12/21,04/23,N/A,N/A,N/A,5.79,0
+472,University 190,3.2,Post-Doc,Jeremyport,N/A,1,1,0,4,Teaching Assistant,08/21,11/22,System Analyst,04/23,12/24,QA Analyst,11/18,08/19,8.75,0
+473,University 6,2.98,Post-Doc,Lake Edwardburgh,F,1,0,1,3,Software Engineer,08/19,09/21,Applications Developer,05/19,02/22,Database Administrator,07/20,04/22,9.52,1
+474,University 57,3.66,Masters,Jeremyview,N/A,1,1,1,0,Web Developer,11/17,12/18,N/A,N/A,N/A,N/A,N/A,N/A,3.23,0
+475,University 172,3.88,Post-Doc,Haasmouth,M,0,1,0,4,Data Scientist,12/16,12/18,System Analyst,11/18,07/21,UX Designer,08/19,04/20,4.21,0
+476,University 146,3.89,High School,Romerotown,F,0,0,N/A,3,Teaching Assistant,05/17,05/19,Data Analyst,10/17,08/21,N/A,N/A,N/A,8.17,1
+477,University 144,3.76,High School,Thomasborough,M,1,1,0,3,Teaching Assistant,10/18,05/22,Data Scientist,04/20,10/21,Full-stack Developer,10/20,07/23,2.22,0
+478,University 40,3.8,Phd,Melvinport,M,N/A,0,1,3,Research Assistant,02/19,04/19,Business Analyst,08/16,04/17,QA Analyst,09/21,05/23,2.14,0
+479,University 17,3.57,Post-Doc,Walkershire,N/A,1,0,1,3,System Analyst,04/17,08/18,N/A,N/A,N/A,N/A,N/A,N/A,5.58,0
+480,University 177,3.57,Masters,New Martin,M,0,1,0,3,Applications Developer,09/20,12/23,N/A,N/A,N/A,N/A,N/A,N/A,8.54,1
+481,University 200,3.68,High School,South Joseph,M,0,1,1,0,IT Manager,09/21,04/24,N/A,N/A,N/A,N/A,N/A,N/A,5.25,1
+482,University 36,3.76,High School,Victoriaville,M,1,1,0,0,Full-stack Developer,02/19,08/19,Database Administrator,08/18,11/19,Network Administrator,01/18,08/18,5.76,0
+483,University 171,3.16,Post-Doc,New Johnhaven,F,0,1,1,0,Network Administrator,05/18,03/22,Technical Support Specialist,06/18,06/19,Teaching Assistant,06/22,04/24,1.57,0
+484,University 29,3.06,Masters,Steveville,F,1,0,N/A,3,Research Assistant,06/19,12/20,System Analyst,08/18,11/18,N/A,N/A,N/A,1.85,0
+485,University 179,2.98,Bachelors,East Natasha,N/A,0,1,1,0,Developer,05/20,12/21,System Analyst,09/17,02/20,System Analyst,07/17,08/17,8.14,0
+486,University 80,3.74,High School,Kellystad,M,0,0,0,2,Full-stack Developer,01/21,08/23,Applications Developer,10/20,05/23,N/A,N/A,N/A,5.48,1
+487,University 65,3.2,Masters,Port Stacey,M,N/A,1,1,0,Software Engineer,06/22,05/25,System Analyst,03/23,08/26,N/A,N/A,N/A,1.36,0
+488,University 29,3.13,Masters,Perryland,M,N/A,0,N/A,3,QA Analyst,05/18,07/20,Web Developer,08/22,10/25,Applications Developer,06/17,05/20,8.1,0
+489,University 150,3.45,High School,West Derrickville,M,0,0,1,4,QA Analyst,09/19,11/20,Technical Support Specialist,10/22,03/26,Full-stack Developer,10/20,02/24,0.32,0
+490,University 21,3.31,Phd,Mckenzieborough,F,0,0,0,3,System Analyst,05/20,11/23,Applications Developer,10/18,03/20,Teaching Assistant,03/21,05/21,9.67,0
+491,University 21,3.21,Some College,South Davidchester,M,1,1,0,0,QA Analyst,12/16,09/20,Web Developer,09/20,03/21,Front-end Developer,08/21,01/23,3.62,0
+492,University 9,3.06,Masters,North Tylerstad,F,0,0,N/A,3,Back-end Developer,05/16,04/17,N/A,N/A,N/A,N/A,N/A,N/A,8.24,0
+493,University 185,3.83,Masters,New Hannah,M,N/A,0,N/A,0,Back-end Developer,12/17,06/19,Technical Support Specialist,03/23,10/23,N/A,N/A,N/A,3.99,0
+494,University 123,3.68,Phd,South Robertton,F,1,1,1,3,Network Administrator,04/22,01/24,N/A,N/A,N/A,N/A,N/A,N/A,3.47,0
+495,University 162,3.94,Some College,East Brandi,F,1,0,1,4,Technical Support Specialist,04/17,09/20,Data Analyst,10/22,10/24,Data Scientist,08/20,03/24,4.18,0
+496,University 10,3.84,Phd,Holmesmouth,F,1,1,1,4,Developer,05/16,06/19,Product Manager,08/17,11/18,N/A,N/A,N/A,9.44,0
+497,University 131,3.42,Phd,Port Christineborough,N/A,1,0,1,4,Applications Developer,11/16,09/18,Front-end Developer,10/17,04/18,N/A,N/A,N/A,2.83,0
+498,University 68,3.39,Some College,South Keith,F,N/A,0,1,3,Network Administrator,12/16,02/19,N/A,N/A,N/A,N/A,N/A,N/A,6.52,0
+499,University 70,3.15,Masters,Gordonmouth,F,1,1,1,2,Product Manager,12/20,07/24,Research Assistant,02/20,05/21,N/A,N/A,N/A,0.96,0
+500,University 140,3.38,Bachelors,Beverlymouth,M,0,0,1,3,QA Analyst,11/16,02/17,N/A,N/A,N/A,N/A,N/A,N/A,7.31,1
+501,University 147,3.26,Post-Doc,Hickshaven,M,1,0,N/A,4,System Analyst,12/17,04/20,Network Administrator,04/22,12/25,Developer,09/16,06/19,9.95,0
+502,University 108,3.58,Post-Doc,South Hollyborough,F,0,0,0,3,Teaching Assistant,04/21,04/24,Teaching Assistant,03/20,07/23,Research Assistant,01/18,11/21,3.11,1
+503,University 163,3.44,Some College,Samanthaburgh,M,N/A,0,1,3,Data Scientist,07/21,05/22,Full-stack Developer,04/21,08/24,UX Designer,03/23,01/24,6.64,1
+504,University 166,3.19,Masters,Christianland,N/A,N/A,1,1,4,Product Manager,03/23,01/24,Product Manager,03/21,05/22,Research Assistant,08/19,11/20,2.41,0
+505,University 2,3.5,Some College,New Michaelstad,F,N/A,0,N/A,3,System Analyst,12/21,05/24,Teaching Assistant,06/20,09/20,Product Manager,08/16,05/18,3.1,0
+506,University 51,3.83,Some College,South Carriestad,M,0,0,0,0,Software Engineer,12/22,11/26,Front-end Developer,06/21,04/22,N/A,N/A,N/A,7.68,0
+507,University 189,3.79,High School,Martinezhaven,F,N/A,1,N/A,0,IT Manager,08/21,09/24,Applications Developer,10/19,07/23,Front-end Developer,01/23,07/26,2.62,1
+508,University 169,3.66,High School,Ramosland,N/A,0,1,N/A,0,Teaching Assistant,07/21,06/24,Research Assistant,06/17,08/18,N/A,N/A,N/A,1.92,0
+509,University 188,3.27,Some College,Port Julie,F,1,0,N/A,0,Network Administrator,10/22,09/26,Research Assistant,04/21,10/21,Applications Developer,04/20,06/22,8.09,0
+510,University 174,3.15,Post-Doc,Christophertown,M,1,1,N/A,0,Back-end Developer,07/17,06/21,Business Analyst,08/18,04/21,N/A,N/A,N/A,0.83,0
+511,University 19,3.96,Masters,Brendaport,F,N/A,1,0,0,IT Manager,01/18,01/20,Research Assistant,04/17,09/20,N/A,N/A,N/A,0.3,0
+512,University 169,3.32,Some College,Matthewton,M,0,1,1,0,IT Manager,07/17,07/20,Database Administrator,07/19,05/21,Front-end Developer,01/18,06/18,2.39,0
+513,University 34,3.31,Some College,North Jack,M,1,0,0,0,Back-end Developer,04/23,10/24,N/A,N/A,N/A,N/A,N/A,N/A,8.78,0
+514,University 46,3.94,Bachelors,South Michaelland,M,0,1,N/A,3,Software Engineer,05/16,05/18,Developer,07/16,05/17,N/A,N/A,N/A,9.12,0
+515,University 56,2.83,High School,Bradleyburgh,N/A,0,1,0,3,Technical Support Specialist,07/18,10/19,Teaching Assistant,10/21,06/22,QA Analyst,12/20,04/22,4.54,0
+516,University 126,2.8,Masters,Carolyntown,F,0,0,1,3,Developer,01/22,11/22,QA Analyst,10/18,10/21,N/A,N/A,N/A,6.38,0
+517,University 16,3.81,Phd,East Eric,M,1,1,1,0,Developer,09/19,01/22,N/A,N/A,N/A,N/A,N/A,N/A,4.47,0
+518,University 189,3.83,Masters,New Bethanystad,N/A,0,1,1,3,Product Manager,10/21,10/22,QA Analyst,05/20,11/22,Network Administrator,12/19,09/22,1.15,0
+519,University 170,3.64,Phd,New Angelahaven,F,N/A,1,0,4,Technical Support Specialist,04/20,01/21,Back-end Developer,12/21,10/24,Product Manager,12/17,04/18,2.26,0
+520,University 37,2.83,Phd,South John,M,1,0,0,0,Teaching Assistant,04/18,03/21,Full-stack Developer,06/18,01/20,N/A,N/A,N/A,6.28,1
+521,University 67,3.53,High School,New Donald,M,0,1,1,0,UX Designer,02/23,09/26,Database Administrator,11/21,03/25,N/A,N/A,N/A,3.58,1
+522,University 1,2.9,Some College,Christophertown,M,1,0,0,0,Data Analyst,10/19,09/21,Data Scientist,10/18,10/19,N/A,N/A,N/A,2.35,0
+523,University 154,3.5,Post-Doc,Wyattmouth,F,1,0,N/A,0,UX Designer,08/16,11/18,Business Analyst,11/20,07/23,N/A,N/A,N/A,1.33,0
+524,University 99,3.24,Phd,Rileyhaven,F,0,0,1,3,Database Administrator,03/23,05/26,Database Administrator,08/22,08/25,Back-end Developer,09/22,01/24,3.37,1
+525,University 195,3.0,Bachelors,Bellmouth,F,0,1,0,4,Web Developer,06/19,02/22,Network Administrator,02/23,10/25,N/A,N/A,N/A,9.75,1
+526,University 12,3.22,Some College,Tiffanyport,M,1,1,N/A,0,Applications Developer,06/21,07/22,N/A,N/A,N/A,N/A,N/A,N/A,0.97,1
+527,University 146,2.94,Bachelors,Mitchellview,F,0,0,1,3,Applications Developer,04/23,09/24,Teaching Assistant,03/22,04/23,Back-end Developer,12/19,04/22,3.78,0
+528,University 195,3.98,Bachelors,Kellerhaven,F,N/A,0,N/A,3,UX Designer,02/18,02/19,Data Scientist,03/22,10/25,Network Administrator,02/23,06/23,6.93,1
+529,University 147,3.4,Post-Doc,New Andrea,F,0,0,1,3,Developer,08/22,12/24,IT Manager,02/18,09/21,Research Assistant,11/21,01/22,2.41,0
+530,University 108,2.81,High School,West Scottside,N/A,1,0,0,3,Applications Developer,01/19,01/22,Full-stack Developer,07/18,03/21,Database Administrator,02/18,08/20,2.45,0
+531,University 12,3.42,Some College,Lake Jeffreyfort,M,1,0,N/A,4,Data Analyst,05/21,01/25,Web Developer,02/19,08/22,N/A,N/A,N/A,1.81,0
+532,University 163,3.86,Masters,South William,M,N/A,0,N/A,3,Teaching Assistant,10/17,07/19,Front-end Developer,05/21,07/21,IT Manager,02/21,05/22,9.79,1
+533,University 5,3.99,Phd,Martinstad,M,1,1,1,0,Teaching Assistant,05/22,02/25,QA Analyst,09/16,08/18,Database Administrator,04/21,10/21,8.48,0
+534,University 36,3.04,High School,North Amy,F,1,1,1,0,Back-end Developer,09/18,07/20,Product Manager,05/22,07/24,Back-end Developer,04/17,03/21,7.03,0
+535,University 38,3.09,High School,Bakermouth,F,N/A,0,1,0,Technical Support Specialist,01/19,11/19,Full-stack Developer,07/21,08/24,UX Designer,02/17,05/20,2.08,0
+536,University 4,2.84,Some College,East Debrashire,M,0,0,N/A,0,Database Administrator,01/17,08/17,N/A,N/A,N/A,N/A,N/A,N/A,2.31,1
+537,University 91,2.89,Post-Doc,Paigestad,F,N/A,0,0,0,Data Scientist,08/21,02/22,Full-stack Developer,08/22,04/25,Developer,10/20,02/22,7.02,0
+538,University 166,2.83,Some College,West Rodney,F,0,0,N/A,0,Research Assistant,04/16,01/17,System Analyst,06/20,01/23,Developer,01/21,03/22,0.94,1
+539,University 150,3.61,Phd,New Brandon,M,1,0,N/A,3,Research Assistant,09/17,01/20,Developer,04/17,01/21,System Analyst,05/17,12/20,8.99,1
+540,University 132,3.95,High School,Mooreview,M,N/A,1,N/A,3,Data Analyst,05/21,01/23,System Analyst,01/21,06/24,Data Scientist,12/21,09/25,1.86,1
+541,University 143,2.82,High School,New Elizabeth,M,N/A,1,0,3,Web Developer,06/22,09/24,Front-end Developer,08/21,09/23,N/A,N/A,N/A,4.17,0
+542,University 107,3.5,Post-Doc,Richardsonville,F,1,1,1,4,UX Designer,02/17,10/17,Research Assistant,02/17,12/20,UX Designer,05/22,04/26,3.1,1
+543,University 3,3.37,Bachelors,New Gabrielle,M,1,1,N/A,4,Data Scientist,03/18,03/19,N/A,N/A,N/A,N/A,N/A,N/A,4.08,1
+544,University 128,2.87,Some College,South Robert,N/A,1,1,1,3,Technical Support Specialist,01/20,07/21,Back-end Developer,01/21,07/24,N/A,N/A,N/A,8.71,0
+545,University 21,3.12,Phd,East Scott,M,1,1,N/A,1,Technical Support Specialist,05/18,02/19,Software Engineer,09/19,01/22,Business Analyst,04/16,08/16,1.41,0
+546,University 117,3.28,Masters,South Charleneborough,M,1,1,N/A,0,Front-end Developer,08/22,08/24,N/A,N/A,N/A,N/A,N/A,N/A,2.39,1
+547,University 84,3.1,Phd,Kennedyburgh,N/A,N/A,0,1,0,Web Developer,04/19,03/23,Database Administrator,05/17,05/19,N/A,N/A,N/A,9.76,0
+548,University 74,3.47,Post-Doc,Jackborough,M,0,0,1,2,Software Engineer,03/21,07/21,Front-end Developer,10/17,03/20,Applications Developer,06/16,12/19,8.64,0
+549,University 172,2.88,Masters,North Christopher,M,1,0,0,3,Applications Developer,12/19,08/21,Web Developer,10/19,09/22,UX Designer,07/18,10/20,3.71,1
+550,University 184,3.73,Phd,Pamelaland,F,N/A,1,0,3,QA Analyst,03/21,03/24,Web Developer,02/17,07/18,Data Analyst,10/18,12/21,9.08,0
+551,University 157,2.93,Post-Doc,Spencerside,M,0,1,N/A,3,Database Administrator,07/20,07/21,N/A,N/A,N/A,N/A,N/A,N/A,2.48,1
+552,University 9,3.51,High School,New Sethfort,M,N/A,0,0,0,Business Analyst,12/22,06/26,Data Analyst,11/17,06/20,N/A,N/A,N/A,7.57,0
+553,University 43,3.4,Masters,Port Kenneth,N/A,1,0,0,4,QA Analyst,04/21,04/23,Research Assistant,06/16,03/17,Teaching Assistant,08/18,06/19,8.12,0
+554,University 54,3.83,Post-Doc,North Kenneth,M,0,1,1,3,Data Analyst,04/19,02/20,QA Analyst,04/19,01/23,N/A,N/A,N/A,3.36,0
+555,University 79,4.0,High School,Rodriguezfort,F,1,1,N/A,2,Developer,01/23,10/23,Technical Support Specialist,02/22,04/22,Business Analyst,10/19,09/23,5.46,0
+556,University 30,3.52,Bachelors,Reynoldston,M,N/A,0,0,1,Teaching Assistant,09/16,12/16,QA Analyst,04/23,02/26,N/A,N/A,N/A,8.85,1
+557,University 37,3.73,Bachelors,Smithfort,M,1,1,1,4,System Analyst,09/19,08/23,Database Administrator,10/18,04/19,Data Analyst,04/18,12/21,4.99,0
+558,University 41,3.8,Phd,Johnsontown,M,N/A,1,1,3,System Analyst,08/19,03/23,Research Assistant,10/22,05/23,Applications Developer,08/19,11/21,2.73,0
+559,University 36,3.49,Masters,New Alexandrachester,M,0,0,1,3,Web Developer,03/20,10/23,N/A,N/A,N/A,N/A,N/A,N/A,1.48,0
+560,University 150,3.47,Some College,Watsonburgh,F,0,1,0,3,Developer,06/17,03/18,Database Administrator,12/22,12/23,Back-end Developer,12/22,05/25,6.38,0
+561,University 172,3.31,Masters,Whiteview,F,0,1,N/A,4,Software Engineer,07/16,02/17,System Analyst,08/21,11/23,Network Administrator,04/20,01/24,6.24,0
+562,University 29,3.79,High School,Jessicamouth,F,0,1,N/A,0,Developer,05/21,03/22,N/A,N/A,N/A,N/A,N/A,N/A,7.48,1
+563,University 158,3.76,Masters,Wilsonland,N/A,0,0,N/A,3,Network Administrator,06/18,07/19,IT Manager,04/19,05/21,N/A,N/A,N/A,6.1,0
+564,University 110,3.84,Post-Doc,Port Kyle,M,0,0,0,0,Technical Support Specialist,05/16,10/19,Applications Developer,09/16,10/17,N/A,N/A,N/A,9.21,1
+565,University 193,2.92,High School,Smithbury,F,N/A,0,0,3,Business Analyst,01/17,09/20,N/A,N/A,N/A,N/A,N/A,N/A,3.33,0
+566,University 130,3.0,Phd,New Jeanettemouth,M,1,1,N/A,0,System Analyst,09/19,01/20,Front-end Developer,01/20,07/22,Data Scientist,08/18,04/21,8.07,0
+567,University 51,3.5,Masters,East Tanya,F,N/A,0,1,3,Software Engineer,08/17,11/19,UX Designer,10/21,01/24,Web Developer,03/23,10/26,7.72,0
+568,University 44,3.67,Some College,Jenniferside,M,N/A,1,N/A,3,Business Analyst,12/21,09/25,QA Analyst,11/17,03/18,Data Analyst,06/18,12/21,0.12,0
+569,University 134,3.39,Some College,Joneschester,F,0,0,1,3,QA Analyst,05/22,05/26,Front-end Developer,02/18,03/19,System Analyst,12/20,05/23,1.92,0
+570,University 174,3.42,Masters,Port Stevenfurt,N/A,N/A,1,N/A,0,Developer,06/17,04/19,Software Engineer,10/21,12/24,System Analyst,04/18,12/19,9.97,0
+571,University 138,3.82,Masters,Lake Jessica,F,N/A,0,0,3,Back-end Developer,02/21,06/24,QA Analyst,02/22,02/23,N/A,N/A,N/A,6.27,0
+572,University 166,3.88,High School,North Timothy,M,1,0,N/A,0,Teaching Assistant,06/22,11/25,Developer,06/16,02/17,QA Analyst,06/21,01/24,7.69,0
+573,University 152,3.93,Bachelors,West Josephburgh,F,N/A,1,1,4,Web Developer,11/17,02/19,Business Analyst,11/18,01/22,QA Analyst,12/21,12/24,2.25,0
+574,University 154,3.01,Post-Doc,Katherinechester,M,1,0,0,2,Teaching Assistant,03/20,07/21,N/A,N/A,N/A,N/A,N/A,N/A,7.26,1
+575,University 53,3.67,High School,North Ashley,F,0,1,0,4,Back-end Developer,05/18,05/21,Teaching Assistant,02/18,09/20,Data Analyst,10/19,05/23,5.93,0
+576,University 17,2.9,Post-Doc,Curtisland,N/A,0,0,N/A,3,Web Developer,09/21,04/22,Back-end Developer,04/21,11/21,UX Designer,02/23,10/25,9.99,0
+577,University 69,3.62,Some College,South Jamesview,M,0,0,1,0,IT Manager,03/20,12/20,System Analyst,02/20,11/20,Business Analyst,12/21,10/25,8.95,0
+578,University 169,3.28,Phd,Bettyshire,F,1,1,0,4,Research Assistant,09/20,11/22,Full-stack Developer,09/17,01/18,N/A,N/A,N/A,2.07,0
+579,University 154,3.19,Some College,West Davidton,N/A,0,0,N/A,0,Back-end Developer,11/21,06/23,N/A,N/A,N/A,N/A,N/A,N/A,8.24,0
+580,University 26,3.39,Some College,Lake Teresa,N/A,0,1,N/A,0,Developer,10/22,10/25,Data Analyst,12/21,07/24,Data Analyst,08/19,09/19,9.48,0
+581,University 150,3.16,Some College,Watersmouth,N/A,1,1,1,4,Network Administrator,07/18,01/19,Data Analyst,04/22,03/23,N/A,N/A,N/A,3.11,0
+582,University 184,3.69,Masters,South Aaronshire,N/A,0,1,1,0,Applications Developer,02/21,01/25,Front-end Developer,04/16,08/16,N/A,N/A,N/A,0.18,0
+583,University 193,3.32,High School,Brownchester,M,0,0,N/A,3,System Analyst,03/22,10/25,Teaching Assistant,03/21,03/24,N/A,N/A,N/A,3.5,0
+584,University 33,3.08,Masters,Marcfort,M,1,0,1,3,Web Developer,08/22,03/26,Back-end Developer,04/19,05/22,IT Manager,04/21,06/21,6.76,0
+585,University 30,3.16,Bachelors,Lisaside,M,1,0,0,3,Developer,07/22,09/24,N/A,N/A,N/A,N/A,N/A,N/A,5.5,1
+586,University 131,3.76,High School,South William,M,1,0,N/A,4,Developer,06/18,05/21,Software Engineer,09/22,09/24,N/A,N/A,N/A,9.75,1
+587,University 111,3.46,Masters,West Amy,M,1,1,N/A,0,Database Administrator,11/22,08/26,N/A,N/A,N/A,N/A,N/A,N/A,8.07,1
+588,University 92,3.63,Phd,East Brenda,M,0,0,N/A,3,Full-stack Developer,02/19,05/20,Product Manager,06/19,04/23,Developer,05/16,08/16,1.48,0
+589,University 17,3.22,Bachelors,West Sherry,M,1,1,1,0,Data Scientist,08/21,09/24,Research Assistant,07/16,10/18,QA Analyst,04/16,05/19,3.39,0
+590,University 53,3.26,Masters,Amandashire,M,1,0,N/A,3,Teaching Assistant,09/19,02/23,Applications Developer,02/23,06/23,Software Engineer,10/22,01/25,5.92,1
+591,University 174,3.95,Masters,Brendachester,M,0,0,1,4,Technical Support Specialist,05/18,01/20,Research Assistant,01/18,10/20,IT Manager,03/22,11/25,5.89,1
+592,University 129,3.84,High School,Brittanytown,N/A,0,1,1,4,Software Engineer,03/22,01/23,System Analyst,10/17,05/21,Business Analyst,07/17,11/20,2.26,0
+593,University 97,3.1,Post-Doc,Thompsonborough,M,N/A,1,0,4,Business Analyst,03/22,05/24,N/A,N/A,N/A,N/A,N/A,N/A,1.88,1
+594,University 86,3.2,High School,Ryanstad,M,1,1,N/A,0,IT Manager,10/21,09/23,UX Designer,06/20,11/21,Developer,08/18,02/22,9.8,1
+595,University 197,3.89,Phd,Brandyview,M,0,0,N/A,0,Developer,11/22,08/24,Front-end Developer,07/21,10/21,Data Analyst,04/22,02/25,2.29,0
+596,University 26,2.82,High School,Gibsonmouth,F,N/A,0,0,0,UX Designer,07/20,06/23,N/A,N/A,N/A,N/A,N/A,N/A,6.51,0
+597,University 183,3.35,High School,Adkinsborough,M,1,0,1,3,Full-stack Developer,04/22,07/24,IT Manager,09/16,06/19,Business Analyst,03/19,07/22,8.44,0
+598,University 64,3.34,High School,North Robert,N/A,N/A,0,N/A,0,Network Administrator,10/16,01/19,IT Manager,04/17,08/19,Full-stack Developer,07/16,05/20,0.18,0
+599,University 38,3.3,Post-Doc,New Christineshire,M,1,0,0,3,Network Administrator,03/19,11/19,Technical Support Specialist,02/22,10/25,Software Engineer,10/21,09/24,5.35,1
+600,University 95,3.57,Masters,East Nicoleberg,F,1,0,1,0,IT Manager,11/20,01/24,N/A,N/A,N/A,N/A,N/A,N/A,2.22,0
+601,University 162,3.91,Post-Doc,Lake Kevin,N/A,0,0,1,3,Technical Support Specialist,09/19,01/20,N/A,N/A,N/A,N/A,N/A,N/A,3.77,0
+602,University 109,3.94,Bachelors,Matthewside,M,1,1,N/A,0,Full-stack Developer,03/18,07/19,N/A,N/A,N/A,N/A,N/A,N/A,4.84,1
+603,University 118,3.4,Post-Doc,Desireemouth,M,1,1,0,4,IT Manager,05/17,06/18,Technical Support Specialist,04/21,11/24,Data Analyst,07/21,01/22,2.25,0
+604,University 56,2.8,Phd,Virginiaview,N/A,1,0,0,0,Back-end Developer,09/16,12/19,N/A,N/A,N/A,N/A,N/A,N/A,2.94,0
+605,University 41,3.39,Phd,Millerstad,M,N/A,1,N/A,2,Product Manager,05/22,07/23,Back-end Developer,04/22,06/23,N/A,N/A,N/A,4.86,1
+606,University 144,3.22,Phd,Lake Martin,F,0,0,0,4,System Analyst,02/21,07/24,Teaching Assistant,07/16,07/20,Applications Developer,09/22,09/26,6.62,0
+607,University 141,3.5,Phd,Williamsonburgh,M,0,1,0,4,Business Analyst,09/20,06/21,Software Engineer,09/18,10/21,Back-end Developer,03/20,06/21,6.47,1
+608,University 64,3.31,High School,North Josephville,F,0,1,1,0,Data Scientist,03/23,06/25,Product Manager,09/18,01/21,N/A,N/A,N/A,0.51,0
+609,University 86,3.43,High School,Matthewhaven,N/A,1,1,1,0,Business Analyst,07/18,08/20,Front-end Developer,05/18,01/22,Full-stack Developer,08/17,08/19,7.53,0
+610,University 10,3.83,High School,East Davidstad,N/A,1,0,1,3,Research Assistant,10/22,02/26,UX Designer,03/23,06/24,Business Analyst,05/19,08/19,9.45,0
+611,University 145,3.3,High School,East Stephanie,F,1,1,0,4,Web Developer,01/17,04/20,Back-end Developer,08/17,11/17,N/A,N/A,N/A,8.71,1
+612,University 152,3.34,High School,Smithshire,M,1,0,N/A,0,Data Scientist,11/21,10/22,N/A,N/A,N/A,N/A,N/A,N/A,3.61,1
+613,University 25,3.53,Some College,Edwardsburgh,F,1,1,N/A,3,Teaching Assistant,09/16,12/18,Front-end Developer,10/16,02/18,Research Assistant,08/19,11/19,8.76,1
+614,University 199,3.36,Post-Doc,Manntown,M,0,0,1,4,Front-end Developer,11/16,06/17,Network Administrator,12/19,03/21,Data Analyst,07/18,07/22,6.62,1
+615,University 34,3.34,Phd,Ericview,F,N/A,0,N/A,3,Research Assistant,12/19,11/21,Web Developer,02/20,10/23,N/A,N/A,N/A,2.44,0
+616,University 189,3.35,Post-Doc,Port Donaldville,M,N/A,0,1,0,System Analyst,01/21,12/23,Network Administrator,11/16,05/20,Developer,12/20,01/24,6.67,0
+617,University 40,3.15,High School,Nathantown,M,N/A,0,1,4,Database Administrator,08/16,11/16,Research Assistant,05/16,03/17,Back-end Developer,09/18,10/20,8.06,1
+618,University 18,3.37,Post-Doc,Juanport,M,1,0,1,3,Data Scientist,04/20,01/21,N/A,N/A,N/A,N/A,N/A,N/A,6.55,0
+619,University 144,3.33,Some College,East Francisco,M,0,0,1,3,Data Scientist,09/20,02/23,N/A,N/A,N/A,N/A,N/A,N/A,7.2,1
+620,University 96,3.56,High School,West Matthew,M,1,0,1,0,Front-end Developer,09/20,11/22,Full-stack Developer,06/22,12/25,Data Analyst,04/22,12/23,4.09,0
+621,University 164,2.98,Bachelors,East Edwardhaven,M,N/A,1,1,1,Back-end Developer,08/16,09/16,Web Developer,06/21,02/25,IT Manager,08/19,03/23,5.23,0
+622,University 9,3.65,Bachelors,Hartmanshire,F,0,1,0,3,System Analyst,02/19,12/21,Business Analyst,06/22,01/25,Data Analyst,01/21,11/23,4.04,0
+623,University 195,2.98,Some College,Gibbsstad,F,0,0,N/A,0,Business Analyst,01/23,08/25,Back-end Developer,04/18,06/19,N/A,N/A,N/A,8.07,0
+624,University 10,3.86,Phd,Walkermouth,F,N/A,0,0,2,Developer,04/16,10/19,QA Analyst,06/18,09/20,Front-end Developer,07/21,09/23,7.16,0
+625,University 115,2.89,Some College,Christinemouth,F,1,1,N/A,2,Front-end Developer,03/17,06/17,N/A,N/A,N/A,N/A,N/A,N/A,6.22,1
+626,University 14,3.94,Bachelors,Port Maureenton,M,N/A,1,1,3,Product Manager,03/21,12/23,N/A,N/A,N/A,N/A,N/A,N/A,5.01,1
+627,University 42,3.38,Some College,Lake Taramouth,M,0,0,N/A,0,Full-stack Developer,06/16,07/19,Research Assistant,11/19,02/22,Back-end Developer,11/18,10/21,0.26,0
+628,University 68,3.52,Bachelors,Michaelville,F,N/A,0,1,0,System Analyst,10/20,01/21,Research Assistant,02/18,12/21,N/A,N/A,N/A,3.64,0
+629,University 90,3.81,High School,South Phillipmouth,M,N/A,1,0,0,Applications Developer,12/18,11/22,Data Analyst,07/21,10/23,Research Assistant,01/20,03/21,5.04,0
+630,University 190,2.96,Masters,South Haileychester,M,N/A,1,N/A,4,Network Administrator,11/16,03/18,Database Administrator,05/17,08/20,N/A,N/A,N/A,4.25,1
+631,University 53,3.51,High School,West Sherrihaven,N/A,N/A,1,N/A,3,Data Scientist,03/23,06/26,Teaching Assistant,11/20,09/24,Full-stack Developer,06/16,06/20,9.72,0
+632,University 119,3.59,Some College,East Wesleyton,N/A,1,0,N/A,0,Back-end Developer,06/18,08/20,Software Engineer,04/18,10/20,Database Administrator,01/21,04/23,2.38,0
+633,University 181,3.56,Post-Doc,Cookfort,F,1,1,1,3,Data Analyst,06/21,04/25,Back-end Developer,05/17,12/19,N/A,N/A,N/A,1.43,0
+634,University 200,3.1,Post-Doc,Dunnhaven,N/A,0,1,0,4,Front-end Developer,09/17,05/20,Full-stack Developer,09/19,01/20,Applications Developer,01/17,07/19,2.56,0
+635,University 173,3.43,Some College,Keithburgh,M,0,0,N/A,2,QA Analyst,07/22,05/23,IT Manager,02/18,08/20,IT Manager,12/20,03/24,6.04,0
+636,University 87,2.96,High School,South Brad,M,1,0,0,4,Business Analyst,11/20,04/21,N/A,N/A,N/A,N/A,N/A,N/A,5.85,1
+637,University 77,2.98,Post-Doc,East Georgeshire,M,0,0,1,3,UX Designer,03/18,01/19,Software Engineer,10/19,04/22,Database Administrator,12/17,06/19,4.04,0
+638,University 24,3.54,Bachelors,Jeanetteport,F,N/A,0,N/A,0,System Analyst,11/18,07/20,Developer,10/18,05/21,System Analyst,08/18,02/21,3.08,0
+639,University 110,3.39,Phd,Debraberg,N/A,N/A,1,0,3,Business Analyst,12/22,04/23,Business Analyst,08/20,11/23,N/A,N/A,N/A,3.02,0
+640,University 123,2.83,Some College,Douglasland,F,0,1,N/A,0,QA Analyst,09/22,03/25,N/A,N/A,N/A,N/A,N/A,N/A,8.38,1
+641,University 27,3.76,Some College,Buchananland,M,1,1,0,3,Research Assistant,09/17,08/21,N/A,N/A,N/A,N/A,N/A,N/A,4.74,1
+642,University 104,3.31,Some College,Chamberstown,F,N/A,1,0,3,Research Assistant,02/21,10/22,Front-end Developer,04/17,09/18,Applications Developer,05/19,10/21,0.15,0
+643,University 137,2.91,Post-Doc,Gardnermouth,M,0,1,0,3,IT Manager,11/16,02/18,N/A,N/A,N/A,N/A,N/A,N/A,8.23,1
+644,University 171,2.82,Masters,North Maryburgh,F,0,0,0,0,Product Manager,08/17,08/18,Front-end Developer,03/19,08/21,Data Scientist,07/18,11/19,8.33,1
+645,University 97,3.07,High School,Port Mark,M,1,1,N/A,3,Data Scientist,05/20,11/21,UX Designer,11/21,03/24,N/A,N/A,N/A,4.83,1
+646,University 97,3.16,High School,Loweryshire,N/A,0,1,1,0,Product Manager,01/21,09/22,N/A,N/A,N/A,N/A,N/A,N/A,1.58,0
+647,University 165,3.45,Masters,Edwardsburgh,F,0,0,0,0,Database Administrator,03/21,12/24,UX Designer,04/18,03/22,UX Designer,02/19,05/22,9.71,0
+648,University 188,3.64,Post-Doc,Salinasmouth,M,0,0,1,1,System Analyst,11/22,09/24,N/A,N/A,N/A,N/A,N/A,N/A,9.86,1
+649,University 5,3.12,High School,North Brianton,F,1,1,1,0,UX Designer,04/17,08/18,Front-end Developer,05/16,11/16,Business Analyst,04/21,07/24,9.32,0
+650,University 45,2.9,Bachelors,South Ana,N/A,0,0,0,3,IT Manager,04/17,08/20,Teaching Assistant,12/17,08/21,Applications Developer,03/20,03/21,3.79,0
+651,University 145,3.4,Masters,New Mark,F,N/A,1,0,3,Research Assistant,08/20,05/23,IT Manager,11/17,12/19,N/A,N/A,N/A,8.3,0
+652,University 167,3.99,High School,Port Melindamouth,F,0,0,1,3,Research Assistant,03/22,10/22,N/A,N/A,N/A,N/A,N/A,N/A,3.33,0
+653,University 18,3.04,Masters,West Joshuahaven,F,0,0,N/A,4,Business Analyst,04/23,09/23,Product Manager,06/17,03/19,Front-end Developer,08/18,07/19,6.48,0
+654,University 7,3.03,Post-Doc,Tylerside,M,1,0,0,3,IT Manager,03/23,12/23,N/A,N/A,N/A,N/A,N/A,N/A,5.44,1
+655,University 10,3.27,Some College,Yorkmouth,F,N/A,0,1,4,UX Designer,09/17,04/20,IT Manager,12/19,07/22,Network Administrator,04/17,07/18,8.17,0
+656,University 200,3.46,Some College,South Joshuamouth,M,0,0,N/A,3,Teaching Assistant,10/17,02/21,Software Engineer,12/17,10/18,N/A,N/A,N/A,6.06,0
+657,University 85,2.99,Masters,South Jomouth,F,0,0,N/A,3,Developer,12/20,10/22,Web Developer,08/16,05/18,Applications Developer,10/18,05/21,9.01,0
+658,University 178,2.93,High School,Gonzalezberg,M,0,1,1,3,Data Analyst,03/18,11/20,Front-end Developer,09/18,03/20,N/A,N/A,N/A,4.93,1
+659,University 38,2.87,Some College,Hurleyside,F,0,0,0,4,System Analyst,12/16,02/17,QA Analyst,05/22,06/24,N/A,N/A,N/A,1.92,0
+660,University 28,3.12,Bachelors,Brownfurt,M,N/A,0,N/A,0,QA Analyst,08/18,08/19,Technical Support Specialist,05/19,04/23,Developer,06/19,01/22,7.87,1
+661,University 188,3.2,High School,Kellermouth,N/A,1,0,N/A,3,QA Analyst,05/18,07/19,Technical Support Specialist,10/21,03/24,Business Analyst,10/21,08/22,3.15,0
+662,University 172,3.1,High School,Kimborough,M,N/A,1,1,0,Applications Developer,01/17,02/20,Research Assistant,12/18,03/20,N/A,N/A,N/A,1.26,0
+663,University 198,3.1,Phd,Catherinetown,N/A,0,1,N/A,4,IT Manager,11/20,05/21,N/A,N/A,N/A,N/A,N/A,N/A,5.96,0
+664,University 168,3.67,Post-Doc,North Michaelstad,F,0,1,N/A,0,Business Analyst,10/16,02/17,N/A,N/A,N/A,N/A,N/A,N/A,6.03,0
+665,University 161,3.07,Phd,Taylormouth,F,0,0,0,0,Back-end Developer,11/17,08/21,Teaching Assistant,07/19,12/22,Business Analyst,03/22,07/24,5.74,0
+666,University 86,3.9,Masters,Port Jamie,M,1,1,N/A,0,Web Developer,05/22,10/25,N/A,N/A,N/A,N/A,N/A,N/A,2.08,0
+667,University 101,2.95,Some College,South Michael,F,1,0,N/A,4,IT Manager,09/20,04/23,Database Administrator,12/19,06/20,N/A,N/A,N/A,8.52,0
+668,University 163,3.21,Masters,Shellyborough,N/A,0,0,0,3,System Analyst,10/18,01/20,IT Manager,06/19,06/23,Full-stack Developer,04/19,08/21,9.0,0
+669,University 180,3.72,Some College,Ballstad,M,N/A,1,1,0,System Analyst,08/20,02/22,Research Assistant,02/18,12/21,Business Analyst,02/17,11/18,3.79,0
+670,University 37,3.69,High School,East Adam,M,N/A,1,0,0,IT Manager,07/22,03/26,Developer,06/17,02/18,Back-end Developer,05/18,12/18,7.44,0
+671,University 105,3.15,Bachelors,South Arthurfurt,M,0,1,1,3,System Analyst,03/20,10/21,UX Designer,10/21,11/24,N/A,N/A,N/A,4.49,1
+672,University 77,3.75,High School,Samuelmouth,M,1,0,1,3,Applications Developer,06/18,01/20,N/A,N/A,N/A,N/A,N/A,N/A,3.29,1
+673,University 33,3.74,High School,East Tammyport,M,N/A,0,1,2,Data Scientist,07/22,05/24,Data Analyst,01/19,01/22,N/A,N/A,N/A,7.75,0
+674,University 136,3.37,Bachelors,Lake Gloria,M,1,0,0,0,Web Developer,11/20,10/24,Front-end Developer,07/19,09/21,Database Administrator,03/19,02/23,4.87,1
+675,University 71,3.79,Masters,Lake Charlesville,N/A,1,1,0,0,System Analyst,08/18,06/20,Front-end Developer,04/18,06/20,Web Developer,03/20,07/21,0.44,0
+676,University 134,3.92,Post-Doc,Port Elizabeth,M,1,0,1,3,Network Administrator,06/18,03/19,Technical Support Specialist,11/21,07/23,N/A,N/A,N/A,8.02,1
+677,University 140,3.84,Masters,Thomasmouth,N/A,1,0,N/A,0,Network Administrator,09/18,09/21,Software Engineer,01/20,03/20,N/A,N/A,N/A,5.56,0
+678,University 153,3.83,Post-Doc,North Brandon,M,0,0,0,0,Business Analyst,01/19,03/22,N/A,N/A,N/A,N/A,N/A,N/A,2.73,1
+679,University 163,3.75,Some College,Danielchester,F,N/A,0,0,4,System Analyst,09/20,03/23,N/A,N/A,N/A,N/A,N/A,N/A,8.42,0
+680,University 160,2.87,Masters,Lake Alexandrastad,N/A,0,1,1,3,QA Analyst,09/18,07/22,Front-end Developer,09/18,05/20,Business Analyst,04/21,10/21,2.75,0
+681,University 146,3.78,Phd,Davidtown,F,1,1,N/A,0,Back-end Developer,11/18,12/21,Business Analyst,07/19,08/21,Network Administrator,02/18,04/21,0.59,1
+682,University 160,3.78,Phd,Lake Crystalland,F,0,0,1,4,Teaching Assistant,10/20,08/21,Developer,08/19,08/22,N/A,N/A,N/A,9.77,0
+683,University 162,3.19,High School,South Theresaland,N/A,1,0,N/A,0,Teaching Assistant,09/16,11/16,Research Assistant,03/23,02/25,Network Administrator,12/19,07/23,8.11,0
+684,University 132,3.71,Bachelors,Port Jennifermouth,M,0,1,1,3,UX Designer,07/21,02/24,Developer,11/16,07/20,N/A,N/A,N/A,3.14,0
+685,University 103,2.86,Phd,New Adrianachester,M,1,1,1,4,Product Manager,12/22,11/25,System Analyst,10/16,10/18,Network Administrator,11/19,05/20,0.81,0
+686,University 173,3.1,Phd,Port Colleen,F,N/A,0,0,3,Network Administrator,01/22,03/25,System Analyst,12/16,04/18,Applications Developer,02/22,09/24,4.74,0
+687,University 190,3.32,Bachelors,Houstonberg,N/A,0,0,N/A,4,Web Developer,09/21,07/24,UX Designer,11/17,10/21,N/A,N/A,N/A,2.62,0
+688,University 46,3.53,Phd,Hamiltonhaven,M,0,0,0,3,Teaching Assistant,02/17,07/19,Business Analyst,11/22,01/26,Network Administrator,11/21,08/22,5.0,0
+689,University 154,3.1,High School,Juliaberg,F,N/A,1,0,0,Back-end Developer,11/18,05/21,N/A,N/A,N/A,N/A,N/A,N/A,2.06,0
+690,University 69,3.95,Phd,East Brent,F,N/A,1,0,0,Back-end Developer,04/16,12/19,N/A,N/A,N/A,N/A,N/A,N/A,8.49,0
+691,University 104,2.81,Masters,Lake Amy,F,N/A,0,0,0,UX Designer,07/19,02/23,Data Scientist,03/22,10/22,Network Administrator,08/17,01/21,0.01,0
+692,University 186,3.9,Bachelors,West Brian,M,0,1,1,2,Applications Developer,10/21,09/25,Applications Developer,09/19,11/22,N/A,N/A,N/A,8.67,1
+693,University 87,3.51,Post-Doc,Cunninghamfort,N/A,N/A,1,N/A,3,Applications Developer,04/20,09/21,Data Scientist,08/19,04/22,Network Administrator,05/20,08/20,8.44,0
+694,University 187,3.02,Phd,East Kristinachester,M,N/A,1,N/A,0,Data Analyst,11/22,12/22,Back-end Developer,02/18,06/18,Business Analyst,09/17,07/21,7.47,0
+695,University 40,3.45,High School,Lindsayport,M,N/A,1,N/A,0,Back-end Developer,08/19,05/20,Web Developer,07/20,07/22,Data Scientist,06/19,07/20,5.96,1
+696,University 3,2.9,Post-Doc,Jodyberg,F,1,0,1,0,Business Analyst,03/19,10/19,System Analyst,02/17,04/20,Applications Developer,06/19,10/19,3.49,1
+697,University 87,3.86,Some College,Rodriguezburgh,F,0,0,0,3,Teaching Assistant,10/21,02/24,Developer,05/19,05/23,Web Developer,05/22,08/23,7.22,0
+698,University 77,2.91,Phd,South Karina,M,1,0,1,4,Teaching Assistant,09/19,07/21,Database Administrator,06/18,02/20,Applications Developer,03/23,07/23,1.5,1
+699,University 141,3.41,Some College,Lake Kyleberg,M,N/A,1,N/A,2,Software Engineer,04/21,12/23,Database Administrator,12/20,08/22,Developer,11/20,04/23,4.39,1
+700,University 21,3.83,Post-Doc,Fernandezfort,M,N/A,0,1,4,Applications Developer,07/21,12/23,Software Engineer,10/20,09/21,UX Designer,01/20,08/21,1.03,0
+701,University 125,3.17,High School,Robleston,M,N/A,0,1,0,Back-end Developer,09/17,07/19,N/A,N/A,N/A,N/A,N/A,N/A,5.68,0
+702,University 123,3.61,High School,West Matthewshire,N/A,N/A,0,1,0,IT Manager,08/16,10/18,Full-stack Developer,02/23,11/25,IT Manager,03/17,06/20,3.3,0
+703,University 90,3.47,High School,New Bruce,M,0,1,1,0,Front-end Developer,01/19,08/19,IT Manager,02/20,10/21,Technical Support Specialist,02/19,08/21,5.88,0
+704,University 184,3.69,High School,South Carrieberg,M,1,1,N/A,3,Web Developer,08/16,04/20,Data Analyst,09/21,04/25,N/A,N/A,N/A,8.45,0
+705,University 14,3.92,Phd,West Samanthaville,F,1,1,N/A,0,Full-stack Developer,05/20,01/24,N/A,N/A,N/A,N/A,N/A,N/A,7.87,1
+706,University 200,3.48,Post-Doc,Port Peter,M,N/A,1,1,0,Web Developer,06/19,11/22,Web Developer,05/21,01/24,N/A,N/A,N/A,0.85,1
+707,University 106,3.16,Some College,East Alicia,F,0,1,1,0,UX Designer,01/18,11/21,Front-end Developer,06/18,06/19,System Analyst,10/20,03/21,4.19,1
+708,University 171,3.15,Bachelors,New Michaelside,F,0,0,N/A,3,Front-end Developer,12/17,11/19,System Analyst,01/20,07/23,Business Analyst,02/22,11/25,9.69,1
+709,University 194,3.98,Bachelors,Campbellshire,M,N/A,1,0,0,Developer,10/20,11/22,N/A,N/A,N/A,N/A,N/A,N/A,4.56,1
+710,University 21,2.8,Some College,Port Jenniferchester,F,1,0,N/A,0,System Analyst,02/18,02/20,N/A,N/A,N/A,N/A,N/A,N/A,0.14,1
+711,University 71,2.98,High School,North Brianside,M,0,1,0,0,System Analyst,04/21,04/25,Database Administrator,12/21,10/23,System Analyst,05/17,03/20,0.53,0
+712,University 46,3.77,Some College,Nicolefurt,F,N/A,1,0,0,Data Analyst,10/21,02/24,QA Analyst,05/20,11/20,N/A,N/A,N/A,1.62,0
+713,University 30,3.96,High School,Tuckerville,F,0,0,0,0,Web Developer,07/19,02/21,N/A,N/A,N/A,N/A,N/A,N/A,3.27,0
+714,University 5,3.25,High School,North Christopherberg,F,0,0,N/A,3,UX Designer,07/16,10/16,Software Engineer,05/21,02/22,Developer,01/23,04/23,9.69,1
+715,University 157,3.39,Some College,Cabreratown,M,1,0,N/A,3,Data Analyst,10/21,11/22,Teaching Assistant,04/17,12/19,N/A,N/A,N/A,8.42,0
+716,University 157,3.28,High School,North Kenneth,F,N/A,1,1,0,Research Assistant,03/20,06/21,Network Administrator,09/20,12/22,N/A,N/A,N/A,5.08,0
+717,University 59,3.19,Phd,Jamesburgh,N/A,N/A,1,0,3,Product Manager,07/21,01/24,Database Administrator,01/20,06/21,Product Manager,02/23,08/26,3.14,0
+718,University 94,3.19,Some College,Maryport,N/A,0,0,N/A,3,Data Analyst,01/20,11/22,Back-end Developer,08/21,10/23,Product Manager,08/16,08/19,2.1,0
+719,University 109,3.41,Phd,New Allenburgh,M,N/A,1,0,0,System Analyst,05/21,02/23,Research Assistant,06/19,01/21,N/A,N/A,N/A,9.51,0
+720,University 63,2.81,Masters,Lake Michaelbury,M,N/A,1,N/A,4,Applications Developer,11/21,04/24,N/A,N/A,N/A,N/A,N/A,N/A,9.01,1
+721,University 155,3.29,Masters,East Denise,M,0,0,0,0,Web Developer,03/23,11/25,QA Analyst,12/18,03/20,N/A,N/A,N/A,7.69,0
+722,University 24,3.59,Masters,North Brittanyton,M,0,1,1,3,UX Designer,12/22,07/26,N/A,N/A,N/A,N/A,N/A,N/A,6.18,0
+723,University 161,3.54,Masters,Williamshire,M,1,0,N/A,4,Business Analyst,03/17,09/17,N/A,N/A,N/A,N/A,N/A,N/A,5.98,1
+724,University 135,3.23,Some College,East Catherine,N/A,N/A,1,0,4,Research Assistant,12/18,05/19,N/A,N/A,N/A,N/A,N/A,N/A,4.36,0
+725,University 178,3.31,Post-Doc,West Brian,M,1,0,0,0,Product Manager,08/22,09/23,Database Administrator,05/22,08/23,Full-stack Developer,05/16,12/19,7.42,0
+726,University 67,3.36,Some College,Vazquezburgh,M,N/A,0,N/A,2,Database Administrator,03/19,04/19,Data Analyst,08/17,02/21,Teaching Assistant,01/23,11/26,7.09,0
+727,University 66,3.0,Post-Doc,North Keith,N/A,N/A,1,0,3,Software Engineer,08/20,09/23,Data Scientist,03/23,10/23,N/A,N/A,N/A,0.38,0
+728,University 52,3.69,Bachelors,West Kaylaside,F,0,0,1,0,Developer,06/22,08/23,QA Analyst,07/18,12/20,N/A,N/A,N/A,9.03,0
+729,University 55,3.42,High School,New Robert,N/A,0,0,1,4,Technical Support Specialist,06/21,07/21,Product Manager,02/20,12/21,Data Analyst,01/22,11/23,9.3,0
+730,University 176,2.91,Phd,West Taylormouth,F,N/A,0,0,0,Data Analyst,10/21,06/23,UX Designer,05/19,07/19,N/A,N/A,N/A,2.1,0
+731,University 45,3.33,Some College,Williamsside,M,0,0,N/A,0,Software Engineer,05/20,10/22,N/A,N/A,N/A,N/A,N/A,N/A,9.49,1
+732,University 138,3.35,High School,Elizabethton,F,1,0,1,0,Business Analyst,01/23,09/24,Developer,10/22,10/25,Back-end Developer,05/21,02/23,9.83,1
+733,University 38,3.59,Masters,South David,N/A,N/A,0,1,3,Full-stack Developer,02/21,04/23,Business Analyst,06/18,02/21,Front-end Developer,11/22,03/25,0.4,0
+734,University 126,3.99,Bachelors,North Austinville,M,0,1,1,4,Product Manager,04/21,08/22,Data Scientist,06/19,03/22,Developer,04/17,11/19,4.89,0
+735,University 187,3.92,Phd,Mckenziebury,M,N/A,1,1,4,Teaching Assistant,06/20,10/23,Product Manager,11/17,10/21,Network Administrator,02/18,11/19,9.07,1
+736,University 83,3.6,High School,Jonathanton,F,0,1,N/A,0,QA Analyst,07/22,09/23,Network Administrator,01/21,01/23,Product Manager,02/19,02/20,9.53,0
+737,University 191,3.42,Post-Doc,North Adam,M,0,0,0,4,Applications Developer,08/22,04/24,Full-stack Developer,01/22,12/24,Back-end Developer,02/17,04/18,9.21,0
+738,University 198,3.41,Some College,North Laurie,M,0,1,N/A,0,Web Developer,06/19,12/21,Business Analyst,04/21,04/24,Teaching Assistant,04/17,04/20,9.85,0
+739,University 188,3.86,Bachelors,South Angela,M,1,0,0,0,Network Administrator,01/20,03/22,Web Developer,01/21,03/24,System Analyst,07/19,04/20,7.81,0
+740,University 105,3.35,Post-Doc,Port Miranda,M,N/A,1,1,3,Web Developer,06/22,05/23,Data Analyst,02/18,03/18,Data Analyst,12/16,09/17,4.18,0
+741,University 87,3.95,Bachelors,Lake Jonathan,M,0,1,N/A,3,QA Analyst,09/17,06/19,Front-end Developer,04/21,01/24,Web Developer,05/17,05/19,2.89,0
+742,University 95,2.94,High School,South Jeffreyshire,F,0,1,N/A,4,Software Engineer,01/21,05/24,Network Administrator,03/20,09/21,Back-end Developer,12/19,11/23,1.56,1
+743,University 140,3.57,Masters,Thomasborough,M,N/A,0,N/A,0,IT Manager,11/16,07/19,Front-end Developer,08/18,11/21,QA Analyst,01/18,10/20,0.12,0
+744,University 57,3.02,Phd,Isabellaville,F,1,0,1,4,IT Manager,03/19,09/20,Full-stack Developer,06/18,09/20,N/A,N/A,N/A,9.76,1
+745,University 151,3.72,Bachelors,Hillstad,N/A,N/A,0,N/A,4,QA Analyst,06/16,02/20,N/A,N/A,N/A,N/A,N/A,N/A,3.04,0
+746,University 110,3.15,Masters,Walkershire,M,1,0,N/A,3,Product Manager,07/17,07/18,QA Analyst,02/23,06/23,N/A,N/A,N/A,6.92,0
+747,University 191,3.96,Bachelors,Lake Jason,N/A,0,0,N/A,2,Database Administrator,11/19,02/22,Technical Support Specialist,12/18,10/19,Data Analyst,09/21,08/23,9.54,0
+748,University 14,2.98,Post-Doc,Mendozachester,F,1,1,1,0,UX Designer,11/21,07/22,UX Designer,09/22,04/26,Developer,12/16,01/20,3.41,0
+749,University 192,3.94,Phd,Alexanderbury,F,N/A,0,N/A,4,Web Developer,10/16,12/19,Software Engineer,02/17,08/19,N/A,N/A,N/A,7.79,0
+750,University 97,3.65,Some College,South Jenniferland,F,0,1,N/A,0,Product Manager,10/22,10/24,UX Designer,11/22,04/24,UX Designer,10/22,12/25,7.18,0
+751,University 81,3.3,Some College,Robertburgh,N/A,0,0,1,3,UX Designer,05/21,10/23,Software Engineer,10/20,10/22,N/A,N/A,N/A,4.72,0
+752,University 152,3.87,Masters,Latashatown,M,0,1,1,0,Software Engineer,12/17,12/19,Data Analyst,06/22,08/25,N/A,N/A,N/A,3.69,1
+753,University 189,2.87,Post-Doc,Lake Morgan,M,0,0,1,0,Technical Support Specialist,07/20,09/20,Developer,11/21,10/22,N/A,N/A,N/A,1.69,1
+754,University 30,2.96,Some College,Louisville,M,N/A,0,0,0,Product Manager,09/22,07/24,N/A,N/A,N/A,N/A,N/A,N/A,4.95,1
+755,University 17,3.87,Post-Doc,Port Johnmouth,N/A,N/A,1,0,0,Front-end Developer,05/20,09/21,Research Assistant,04/17,11/19,Database Administrator,10/19,04/21,3.37,0
+756,University 16,2.92,Some College,Amyhaven,M,0,0,0,0,Database Administrator,05/20,02/24,Applications Developer,05/17,12/20,Product Manager,01/19,01/22,1.74,1
+757,University 33,3.79,Phd,Port Michaeltown,N/A,0,1,N/A,0,Data Scientist,06/20,04/22,Web Developer,10/21,05/25,N/A,N/A,N/A,1.21,0
+758,University 30,3.53,Phd,East Jessica,N/A,N/A,1,N/A,0,Teaching Assistant,11/21,03/22,Applications Developer,01/20,05/23,N/A,N/A,N/A,6.08,0
+759,University 48,2.82,Phd,Robinsonport,N/A,N/A,1,0,4,Full-stack Developer,01/17,01/21,N/A,N/A,N/A,N/A,N/A,N/A,9.32,0
+760,University 30,3.3,Phd,Port Thomas,M,0,1,N/A,3,Business Analyst,04/19,01/23,Software Engineer,09/22,12/24,IT Manager,12/17,09/21,1.27,0
+761,University 112,2.85,Post-Doc,North Tricia,M,N/A,1,0,3,Front-end Developer,02/22,06/25,UX Designer,02/23,04/25,System Analyst,08/16,09/19,4.12,0
+762,University 73,3.82,Phd,Petersonchester,N/A,0,1,0,0,Teaching Assistant,11/17,04/20,N/A,N/A,N/A,N/A,N/A,N/A,4.11,0
+763,University 33,2.94,Phd,Jamesmouth,M,0,0,1,3,Network Administrator,08/16,06/17,Full-stack Developer,07/18,07/19,N/A,N/A,N/A,4.06,0
+764,University 91,3.96,Some College,New Kevinfurt,F,0,1,1,4,Network Administrator,10/18,12/20,Developer,09/18,09/19,Data Analyst,03/20,01/24,2.75,0
+765,University 44,3.87,High School,Cooperland,F,N/A,0,0,3,Data Scientist,11/21,09/24,Business Analyst,04/17,02/18,N/A,N/A,N/A,4.22,0
+766,University 26,3.61,Phd,Lake Jason,M,1,0,0,4,Full-stack Developer,09/16,03/18,IT Manager,01/18,01/19,IT Manager,03/18,11/18,9.97,0
+767,University 172,3.09,Post-Doc,Popehaven,M,0,0,1,0,UX Designer,07/21,02/22,Network Administrator,02/22,08/25,Research Assistant,01/21,11/23,7.85,1
+768,University 94,3.63,Post-Doc,Barnesfurt,M,0,1,1,3,Technical Support Specialist,08/19,06/22,UX Designer,01/20,05/23,N/A,N/A,N/A,0.85,1
+769,University 86,3.88,High School,Joyceview,N/A,1,1,1,4,QA Analyst,07/22,09/23,Technical Support Specialist,09/19,05/23,Data Scientist,12/20,07/24,3.22,0
+770,University 76,2.93,Bachelors,Evanmouth,F,N/A,1,1,0,Business Analyst,09/22,11/25,Network Administrator,05/19,03/22,Product Manager,10/21,09/23,3.46,0
+771,University 147,3.3,Phd,Port Anthony,M,1,0,0,0,QA Analyst,07/20,02/24,System Analyst,11/18,04/21,Front-end Developer,07/18,04/22,0.75,1
+772,University 192,3.59,Post-Doc,Skinnershire,M,N/A,0,N/A,0,Back-end Developer,05/16,09/19,Teaching Assistant,10/20,11/20,N/A,N/A,N/A,9.04,1
+773,University 117,3.05,Masters,Port Michaelbury,N/A,0,1,N/A,0,Applications Developer,11/22,10/25,Front-end Developer,04/21,06/23,N/A,N/A,N/A,5.5,0
+774,University 188,3.5,Some College,New Natashastad,F,0,1,1,3,Product Manager,12/20,08/21,Web Developer,11/17,04/19,N/A,N/A,N/A,7.92,0
+775,University 159,3.32,Post-Doc,Kyleport,M,N/A,0,1,4,Research Assistant,04/19,10/22,Applications Developer,10/16,12/16,Network Administrator,07/21,05/25,6.04,0
+776,University 53,3.76,Bachelors,Christineborough,F,1,0,1,0,System Analyst,12/17,07/21,Database Administrator,09/17,01/21,Technical Support Specialist,08/18,05/19,3.37,0
+777,University 145,3.21,High School,East Christinemouth,N/A,0,1,1,3,System Analyst,12/18,12/22,Applications Developer,03/19,12/19,Developer,07/17,12/20,5.33,0
+778,University 196,2.9,High School,Mcclureborough,F,0,0,1,0,Applications Developer,08/21,12/24,Product Manager,07/20,10/23,Web Developer,10/18,10/19,0.03,0
+779,University 102,3.54,Post-Doc,Tamaramouth,F,N/A,0,1,0,Data Scientist,11/21,01/24,N/A,N/A,N/A,N/A,N/A,N/A,5.97,1
+780,University 154,3.05,Masters,East Kristinafort,N/A,0,0,N/A,0,Front-end Developer,03/19,12/19,Network Administrator,12/18,01/22,N/A,N/A,N/A,8.45,0
+781,University 192,3.28,Post-Doc,Stevenshire,M,1,1,N/A,2,UX Designer,07/21,08/24,Product Manager,05/22,09/22,Database Administrator,07/17,04/18,5.9,0
+782,University 154,3.08,Masters,East Henryhaven,F,0,1,1,4,Back-end Developer,06/17,11/17,Research Assistant,09/20,03/22,Applications Developer,05/19,06/22,9.15,1
+783,University 73,3.27,Some College,Port Amber,M,0,1,0,4,Applications Developer,08/17,03/19,Data Scientist,01/23,12/23,Web Developer,05/20,02/22,4.55,0
+784,University 130,3.25,Post-Doc,West Daniel,F,0,1,N/A,0,Software Engineer,11/16,03/17,IT Manager,11/20,08/22,Full-stack Developer,04/16,06/19,3.61,0
+785,University 10,3.18,Bachelors,Mitchellport,N/A,N/A,1,N/A,2,QA Analyst,09/17,05/19,Developer,05/17,10/20,N/A,N/A,N/A,7.05,0
+786,University 198,3.54,Bachelors,Port Samantha,F,1,0,N/A,4,Full-stack Developer,07/17,02/18,IT Manager,08/19,07/23,Applications Developer,01/22,11/25,9.57,0
+787,University 168,3.5,Bachelors,Jameschester,N/A,1,0,1,0,Web Developer,10/22,08/23,Data Analyst,10/17,06/21,UX Designer,07/22,06/25,4.96,0
+788,University 42,3.2,Phd,Fordtown,F,N/A,0,1,3,Data Analyst,08/18,04/19,N/A,N/A,N/A,N/A,N/A,N/A,4.84,1
+789,University 187,3.39,High School,New Christian,F,0,0,N/A,0,Business Analyst,09/20,10/22,Data Analyst,03/22,12/24,Network Administrator,12/21,03/22,3.75,0
+790,University 164,3.71,High School,Port Brian,M,N/A,1,N/A,4,Applications Developer,12/19,04/21,Research Assistant,09/20,07/21,N/A,N/A,N/A,7.19,1
+791,University 10,2.86,Some College,New Travis,M,1,0,N/A,4,Business Analyst,09/16,09/18,System Analyst,07/18,09/18,Product Manager,10/21,06/23,2.54,0
+792,University 118,3.64,Phd,South Robert,M,N/A,1,0,2,Network Administrator,08/17,03/20,UX Designer,12/20,08/24,N/A,N/A,N/A,0.32,1
+793,University 139,3.72,Masters,Garcialand,M,N/A,0,0,3,QA Analyst,04/21,05/23,Technical Support Specialist,04/18,04/20,N/A,N/A,N/A,2.85,0
+794,University 102,3.81,Bachelors,South Kimberlyside,M,N/A,1,N/A,4,IT Manager,05/20,06/23,N/A,N/A,N/A,N/A,N/A,N/A,1.67,1
+795,University 164,3.91,Masters,Patrickshire,F,N/A,1,N/A,0,Developer,01/20,03/21,Network Administrator,05/17,11/18,Teaching Assistant,09/20,02/21,8.42,0
+796,University 167,3.77,High School,Aimeefurt,M,1,0,N/A,2,Web Developer,09/17,07/19,Web Developer,02/19,10/21,Full-stack Developer,07/18,11/20,2.31,1
+797,University 12,3.9,Masters,South Guystad,M,0,1,0,0,Back-end Developer,12/20,05/21,Business Analyst,10/22,02/24,System Analyst,07/22,08/23,6.91,1
+798,University 33,3.0,High School,Nicholasville,M,0,0,N/A,0,Product Manager,01/18,08/20,Applications Developer,04/17,08/20,N/A,N/A,N/A,1.07,0
+799,University 123,2.89,Bachelors,South Regina,F,N/A,1,0,0,Back-end Developer,10/20,11/22,Full-stack Developer,04/22,01/26,Technical Support Specialist,10/21,03/25,0.02,0
+800,University 4,3.59,High School,Larrychester,F,N/A,0,N/A,3,Network Administrator,10/16,03/20,Data Scientist,05/21,10/23,N/A,N/A,N/A,3.32,1
+801,University 187,3.59,High School,East Helenbury,F,0,1,0,3,Applications Developer,10/17,02/20,N/A,N/A,N/A,N/A,N/A,N/A,7.15,0
+802,University 93,3.77,Some College,West Angela,F,1,0,0,0,IT Manager,02/19,04/19,Network Administrator,03/21,03/24,Research Assistant,04/17,08/20,1.54,0
+803,University 164,2.87,Some College,West Adamchester,M,N/A,0,1,3,Applications Developer,05/22,01/26,Data Analyst,03/22,12/24,Product Manager,04/20,01/21,9.82,0
+804,University 113,3.21,Post-Doc,Justinville,M,0,1,0,4,System Analyst,05/20,07/23,Teaching Assistant,05/21,10/24,Data Scientist,08/20,03/22,1.98,0
+805,University 200,3.7,Post-Doc,North Joanchester,M,0,0,1,0,Data Analyst,09/20,02/23,Network Administrator,10/21,09/23,Software Engineer,08/16,08/17,9.57,0
+806,University 59,3.75,Phd,Waltersshire,F,1,0,1,3,Research Assistant,06/22,04/24,N/A,N/A,N/A,N/A,N/A,N/A,5.51,0
+807,University 140,3.25,Some College,West Mary,M,N/A,1,N/A,3,Technical Support Specialist,06/18,02/21,Applications Developer,04/22,11/25,UX Designer,03/22,05/22,5.88,1
+808,University 37,3.95,Post-Doc,Tonyaton,N/A,1,0,1,0,UX Designer,01/20,09/22,Software Engineer,09/17,04/19,Network Administrator,12/20,03/23,8.24,0
+809,University 169,3.61,Bachelors,East Edward,N/A,N/A,1,1,4,Business Analyst,11/22,10/24,IT Manager,06/18,08/21,Data Analyst,12/18,08/22,9.36,0
+810,University 183,3.27,Some College,Martinfort,F,N/A,1,N/A,0,Data Scientist,09/19,07/23,N/A,N/A,N/A,N/A,N/A,N/A,0.66,0
+811,University 50,3.6,Phd,Charlesland,M,0,1,1,4,Applications Developer,03/23,06/26,N/A,N/A,N/A,N/A,N/A,N/A,3.59,1
+812,University 181,3.35,Phd,Solomonview,N/A,1,1,N/A,0,Back-end Developer,12/19,08/20,Developer,04/19,02/20,N/A,N/A,N/A,4.42,0
+813,University 10,2.96,Some College,Myersview,F,0,0,0,3,Business Analyst,12/17,07/19,Front-end Developer,10/19,04/23,N/A,N/A,N/A,3.3,0
+814,University 72,3.66,High School,Williamsmouth,N/A,1,1,0,0,Front-end Developer,06/18,11/19,UX Designer,01/21,03/22,Data Scientist,07/20,04/21,4.47,0
+815,University 148,3.06,Some College,Lake Daniel,M,1,1,0,3,Full-stack Developer,07/19,09/19,Applications Developer,04/17,04/18,Back-end Developer,09/17,03/20,4.79,0
+816,University 50,3.7,Phd,Derrickville,N/A,1,0,1,3,Research Assistant,08/22,12/24,Network Administrator,10/22,11/25,Research Assistant,04/20,04/24,2.81,0
+817,University 29,3.51,Bachelors,North Stephanie,F,1,1,0,0,Network Administrator,05/20,05/22,Web Developer,10/19,01/21,N/A,N/A,N/A,5.51,1
+818,University 79,2.91,Phd,East Jennifer,N/A,N/A,0,1,3,Data Scientist,02/17,04/20,Product Manager,06/21,02/25,Software Engineer,05/19,08/22,6.82,0
+819,University 125,3.61,Masters,East Cindyborough,N/A,N/A,0,N/A,4,UX Designer,10/20,02/23,Research Assistant,11/17,01/19,N/A,N/A,N/A,9.27,0
+820,University 151,3.74,Bachelors,West Nicole,F,0,0,0,0,Developer,05/19,03/22,Developer,09/21,06/24,Data Analyst,06/22,02/26,0.45,0
+821,University 195,3.12,Some College,Martinchester,N/A,1,0,N/A,4,Data Analyst,11/20,12/21,Database Administrator,03/22,09/24,N/A,N/A,N/A,1.05,0
+822,University 1,3.24,Post-Doc,New Davidview,N/A,N/A,0,N/A,4,Web Developer,12/22,04/26,QA Analyst,06/21,07/23,IT Manager,12/21,04/25,2.05,0
+823,University 69,3.11,Bachelors,Paulmouth,M,1,0,0,3,Data Scientist,05/22,01/25,N/A,N/A,N/A,N/A,N/A,N/A,7.66,0
+824,University 66,3.43,Post-Doc,Port Shawnton,M,N/A,0,0,4,Research Assistant,02/22,07/24,Network Administrator,09/20,11/21,Applications Developer,11/18,03/22,5.61,0
+825,University 125,2.86,High School,Schmidtborough,N/A,N/A,0,0,0,Teaching Assistant,02/20,11/21,Teaching Assistant,02/17,01/20,Technical Support Specialist,06/17,04/20,7.49,0
+826,University 134,2.89,Masters,Stephaniemouth,M,1,1,1,3,Front-end Developer,02/18,10/18,Front-end Developer,11/19,03/20,Data Scientist,04/23,03/24,4.07,0
+827,University 124,3.57,Bachelors,South Billborough,M,0,1,0,2,Applications Developer,04/23,08/24,Business Analyst,11/22,03/25,N/A,N/A,N/A,1.26,1
+828,University 45,3.33,Some College,North Johnborough,M,N/A,1,N/A,0,IT Manager,03/21,09/22,N/A,N/A,N/A,N/A,N/A,N/A,7.89,1
+829,University 157,3.8,Phd,North Julie,F,N/A,0,N/A,2,Web Developer,07/19,01/21,Software Engineer,10/19,03/20,Network Administrator,02/19,03/21,2.01,1
+830,University 112,3.22,Phd,Keyport,F,0,0,1,3,Teaching Assistant,07/22,12/25,Front-end Developer,12/16,07/17,IT Manager,09/17,02/21,5.5,0
+831,University 108,3.14,Bachelors,East Christopher,F,1,1,0,0,UX Designer,02/22,05/24,Network Administrator,11/19,02/21,Technical Support Specialist,02/23,11/23,9.12,0
+832,University 52,3.78,Masters,Garnerberg,F,0,1,N/A,3,Front-end Developer,04/18,08/18,Research Assistant,06/18,06/19,Database Administrator,04/21,09/21,2.38,1
+833,University 30,3.52,High School,Websterborough,M,N/A,1,1,3,Full-stack Developer,01/19,06/19,Web Developer,02/21,04/21,N/A,N/A,N/A,5.18,1
+834,University 182,3.16,Some College,Brittanyfort,F,1,1,1,3,Database Administrator,03/22,08/22,Product Manager,12/19,03/23,Software Engineer,06/16,12/16,5.21,0
+835,University 53,3.35,Post-Doc,North Tylerside,M,N/A,1,1,3,Developer,10/18,07/22,Back-end Developer,12/19,12/20,N/A,N/A,N/A,1.4,0
+836,University 100,2.82,Some College,Andrechester,F,N/A,1,1,3,Data Scientist,02/21,08/23,N/A,N/A,N/A,N/A,N/A,N/A,6.33,1
+837,University 1,3.04,Phd,West Alanhaven,M,1,1,0,3,Database Administrator,06/21,10/21,Front-end Developer,04/17,01/20,System Analyst,09/18,05/21,5.86,0
+838,University 105,3.9,Phd,Jonesville,N/A,N/A,1,0,0,UX Designer,04/16,10/19,N/A,N/A,N/A,N/A,N/A,N/A,3.46,0
+839,University 31,3.45,Masters,New Jasonmouth,F,N/A,1,N/A,4,Back-end Developer,06/18,12/18,Full-stack Developer,10/22,10/26,Research Assistant,02/17,08/20,8.9,0
+840,University 189,3.44,Post-Doc,West Michellefort,M,1,1,0,3,Data Analyst,02/23,07/26,Product Manager,04/21,10/22,Technical Support Specialist,01/23,02/23,8.03,0
+841,University 70,3.24,Phd,North Josephbury,N/A,0,1,0,0,Data Analyst,07/20,05/23,IT Manager,01/21,03/24,Developer,07/16,06/19,4.64,0
+842,University 47,3.96,Phd,Kristinastad,M,1,1,1,3,UX Designer,04/17,06/18,Web Developer,12/20,09/21,N/A,N/A,N/A,5.2,1
+843,University 69,3.22,Phd,New Shawn,F,1,0,N/A,0,Full-stack Developer,12/19,04/20,N/A,N/A,N/A,N/A,N/A,N/A,2.34,1
+844,University 58,3.52,Bachelors,Martinezmouth,M,N/A,0,N/A,3,Full-stack Developer,08/22,11/23,Back-end Developer,01/18,09/21,Web Developer,10/16,01/17,8.47,0
+845,University 56,3.21,Post-Doc,Lake Joseph,N/A,0,1,0,0,Data Analyst,02/19,01/20,Front-end Developer,02/22,12/25,Back-end Developer,08/18,08/20,7.11,0
+846,University 62,2.95,Post-Doc,Emilyland,M,N/A,1,1,0,Back-end Developer,09/18,08/19,N/A,N/A,N/A,N/A,N/A,N/A,3.12,1
+847,University 2,3.1,Bachelors,Clementsborough,F,N/A,1,0,0,Technical Support Specialist,11/16,07/17,N/A,N/A,N/A,N/A,N/A,N/A,5.03,0
+848,University 164,2.99,Bachelors,Goodmanside,M,1,0,1,3,Web Developer,02/23,08/23,Applications Developer,01/18,07/21,System Analyst,12/19,12/23,6.65,0
+849,University 176,2.97,Some College,Hicksshire,F,N/A,0,0,0,Product Manager,12/19,11/21,IT Manager,03/19,10/21,Technical Support Specialist,12/20,05/22,6.45,1
+850,University 76,3.69,Some College,East William,F,0,1,N/A,0,Applications Developer,06/17,12/18,Full-stack Developer,05/18,06/20,Data Analyst,08/17,10/20,0.24,0
+851,University 132,3.16,Phd,Lake Matthew,M,N/A,0,0,0,Data Analyst,02/18,08/21,Applications Developer,03/22,11/23,Developer,03/18,09/21,5.97,0
+852,University 52,3.07,Some College,Hernandezland,N/A,0,1,N/A,0,Network Administrator,07/16,11/19,Full-stack Developer,12/20,12/22,N/A,N/A,N/A,3.42,0
+853,University 107,3.38,High School,Jameschester,F,1,0,1,3,Technical Support Specialist,11/19,06/22,Full-stack Developer,04/22,02/24,Applications Developer,02/17,07/18,2.88,0
+854,University 22,3.74,Phd,Adamstown,M,N/A,0,1,3,System Analyst,06/21,09/23,UX Designer,08/20,08/21,N/A,N/A,N/A,8.84,1
+855,University 46,3.17,Post-Doc,Stevenmouth,M,N/A,0,1,0,Front-end Developer,03/18,09/19,Software Engineer,07/16,09/18,N/A,N/A,N/A,9.54,1
+856,University 106,3.34,Phd,Danachester,M,N/A,1,1,4,System Analyst,11/22,03/23,Front-end Developer,06/16,10/17,UX Designer,12/21,05/22,5.48,0
+857,University 50,3.91,Masters,East Christopherton,N/A,0,0,N/A,3,Front-end Developer,01/20,06/23,Front-end Developer,01/23,04/24,Business Analyst,10/18,01/21,2.24,0
+858,University 51,3.22,Masters,East Johnfort,M,N/A,1,N/A,4,Software Engineer,01/21,03/21,Teaching Assistant,04/20,08/21,N/A,N/A,N/A,6.01,1
+859,University 11,3.18,Post-Doc,Port Carrie,F,0,1,N/A,0,Research Assistant,07/16,12/16,Data Scientist,03/21,01/23,Network Administrator,06/22,01/25,3.71,0
+860,University 139,3.17,High School,North Beth,F,1,1,N/A,0,System Analyst,05/16,05/18,N/A,N/A,N/A,N/A,N/A,N/A,0.83,0
+861,University 55,2.98,Bachelors,Williamshire,N/A,N/A,1,N/A,0,Back-end Developer,05/16,01/17,Data Analyst,08/17,12/20,N/A,N/A,N/A,7.96,0
+862,University 19,3.28,Some College,Craigstad,F,N/A,1,N/A,2,Product Manager,10/21,12/21,Technical Support Specialist,09/18,04/20,N/A,N/A,N/A,3.22,0
+863,University 185,3.31,Some College,West Gabriellaside,F,0,0,1,3,Web Developer,11/20,09/24,Data Scientist,11/19,01/22,N/A,N/A,N/A,7.07,0
+864,University 6,3.32,Masters,West Gregoryburgh,M,0,0,1,3,Teaching Assistant,06/22,12/22,Technical Support Specialist,12/22,03/24,N/A,N/A,N/A,3.29,1
+865,University 1,3.22,High School,East Melissafurt,F,0,0,N/A,3,Product Manager,04/22,10/24,Data Analyst,11/16,02/19,Research Assistant,08/16,05/20,2.22,0
+866,University 47,2.97,Masters,Port Angelabury,N/A,0,1,0,0,Network Administrator,06/22,01/23,Front-end Developer,02/20,09/22,Product Manager,11/21,05/24,7.35,0
+867,University 96,3.46,Masters,Aaronbury,M,0,1,0,0,Web Developer,09/17,06/21,QA Analyst,10/16,11/17,IT Manager,10/17,05/19,2.07,0
+868,University 10,2.81,Bachelors,West Denise,N/A,0,1,1,0,Software Engineer,06/18,01/20,N/A,N/A,N/A,N/A,N/A,N/A,3.55,0
+869,University 189,3.33,Bachelors,Travisside,F,1,0,0,3,Full-stack Developer,12/19,09/23,Product Manager,03/20,02/21,Teaching Assistant,12/22,01/25,6.48,0
+870,University 147,3.84,Bachelors,East Maria,M,1,1,1,4,Data Scientist,05/21,05/22,N/A,N/A,N/A,N/A,N/A,N/A,6.29,1
+871,University 7,3.86,Post-Doc,West Eric,F,N/A,0,N/A,0,Developer,07/16,08/17,Data Scientist,09/18,11/21,QA Analyst,04/16,07/19,3.68,0
+872,University 132,2.81,Bachelors,South Kristin,M,1,0,1,3,Back-end Developer,09/22,07/23,Applications Developer,01/23,11/26,Technical Support Specialist,12/21,08/22,4.09,0
+873,University 106,3.06,Post-Doc,North Tonya,M,0,0,1,0,Web Developer,09/22,06/24,N/A,N/A,N/A,N/A,N/A,N/A,6.73,1
+874,University 180,3.37,Bachelors,Philliphaven,N/A,1,1,N/A,4,Full-stack Developer,01/19,03/22,Front-end Developer,12/17,09/21,N/A,N/A,N/A,2.9,0
+875,University 84,3.32,Masters,New Laurenfort,M,N/A,1,N/A,0,Network Administrator,11/18,09/20,Technical Support Specialist,02/21,10/22,N/A,N/A,N/A,3.66,1
+876,University 148,3.71,Some College,Darrenberg,M,N/A,0,N/A,4,Back-end Developer,08/20,08/23,Web Developer,10/20,03/23,N/A,N/A,N/A,0.83,0
+877,University 124,3.26,High School,Port Jamesstad,F,0,0,1,3,Business Analyst,04/21,01/25,Product Manager,07/22,10/24,Business Analyst,03/18,02/21,7.83,0
+878,University 161,3.8,Some College,New Christopherland,N/A,0,0,1,0,UX Designer,05/21,11/23,N/A,N/A,N/A,N/A,N/A,N/A,6.0,0
+879,University 197,3.87,Masters,West Michael,M,N/A,1,0,0,System Analyst,08/18,06/20,Network Administrator,01/19,08/21,N/A,N/A,N/A,4.27,1
+880,University 21,2.81,Bachelors,Christineton,F,0,1,1,0,Network Administrator,11/20,03/21,Business Analyst,05/20,07/21,N/A,N/A,N/A,2.4,1
+881,University 58,3.58,Phd,East Bethany,M,1,0,1,3,Developer,11/22,12/24,N/A,N/A,N/A,N/A,N/A,N/A,5.99,1
+882,University 70,3.33,Some College,West Trevorchester,M,1,1,N/A,0,IT Manager,05/18,03/21,N/A,N/A,N/A,N/A,N/A,N/A,9.42,0
+883,University 16,3.57,Masters,Christianville,F,1,0,N/A,3,Data Scientist,03/21,03/23,Full-stack Developer,03/20,05/20,N/A,N/A,N/A,2.35,0
+884,University 198,2.87,Some College,Jessicachester,F,1,1,0,0,Front-end Developer,01/17,12/17,Back-end Developer,02/17,09/19,N/A,N/A,N/A,0.2,0
+885,University 35,3.58,Bachelors,Millerside,M,0,1,N/A,4,Applications Developer,07/20,06/24,System Analyst,01/17,04/17,N/A,N/A,N/A,4.77,0
+886,University 2,3.5,Phd,Lake Matthewborough,M,0,1,N/A,3,Research Assistant,02/22,02/24,Research Assistant,06/17,08/20,N/A,N/A,N/A,8.52,0
+887,University 25,3.24,Phd,Scottville,M,1,0,N/A,0,UX Designer,02/19,07/21,Web Developer,06/16,10/18,QA Analyst,02/20,02/22,8.44,0
+888,University 16,3.54,High School,Port Christopherfurt,M,N/A,0,1,0,Technical Support Specialist,12/16,07/19,Product Manager,01/23,03/26,Database Administrator,03/23,12/25,0.4,1
+889,University 50,3.03,Some College,North Joseph,F,0,1,N/A,3,Back-end Developer,03/22,05/24,Database Administrator,01/17,08/20,Data Analyst,07/18,01/20,9.3,0
+890,University 28,3.31,Post-Doc,South Steven,N/A,1,0,0,1,UX Designer,01/17,02/17,System Analyst,01/20,10/21,N/A,N/A,N/A,1.11,0
+891,University 22,3.87,Masters,Lopezside,F,1,0,N/A,3,Data Analyst,04/23,12/26,Business Analyst,05/21,09/22,Network Administrator,05/16,04/20,6.56,0
+892,University 64,3.0,Post-Doc,New Amy,F,1,1,1,3,Research Assistant,09/22,06/24,Back-end Developer,11/17,02/20,N/A,N/A,N/A,0.65,0
+893,University 36,3.52,Phd,Port Andreachester,M,0,0,1,0,Network Administrator,09/21,12/22,N/A,N/A,N/A,N/A,N/A,N/A,5.81,0
+894,University 23,3.0,Masters,Port Michaelchester,M,N/A,0,0,3,Developer,04/16,07/16,Front-end Developer,08/22,10/24,Software Engineer,06/17,06/18,8.86,0
+895,University 178,2.99,Post-Doc,Gaineston,F,0,0,N/A,0,System Analyst,01/17,09/20,Product Manager,05/18,07/20,N/A,N/A,N/A,4.55,1
+896,University 113,3.13,Bachelors,Franceschester,F,1,1,0,4,Developer,01/22,12/25,Software Engineer,08/17,07/19,Database Administrator,01/23,07/23,5.28,0
+897,University 136,3.52,Phd,North Teresaville,F,N/A,0,0,3,Developer,04/18,11/21,Research Assistant,08/20,04/23,Research Assistant,03/23,06/23,6.31,0
+898,University 69,3.29,Post-Doc,North Brandonbury,N/A,1,1,1,4,Technical Support Specialist,08/22,11/22,QA Analyst,11/21,11/23,Back-end Developer,06/16,12/16,8.04,0
+899,University 128,3.33,Masters,Debraton,M,N/A,0,0,4,IT Manager,05/21,02/24,N/A,N/A,N/A,N/A,N/A,N/A,6.42,1
+900,University 125,2.87,High School,Evanside,N/A,1,1,0,4,IT Manager,03/20,09/21,UX Designer,04/20,08/23,System Analyst,06/18,02/19,3.94,0
+901,University 131,3.75,Some College,New Aliceland,N/A,1,1,N/A,0,Data Analyst,07/16,07/17,N/A,N/A,N/A,N/A,N/A,N/A,8.44,0
+902,University 184,2.92,Some College,North James,N/A,N/A,0,N/A,0,UX Designer,02/17,03/18,Data Scientist,10/21,01/22,N/A,N/A,N/A,5.75,0
+903,University 12,3.49,Some College,East Samuel,N/A,0,0,0,4,System Analyst,08/22,11/22,N/A,N/A,N/A,N/A,N/A,N/A,7.22,0
+904,University 12,3.86,Masters,New Meganmouth,F,1,1,0,4,Product Manager,10/22,12/22,N/A,N/A,N/A,N/A,N/A,N/A,5.74,0
+905,University 142,3.3,Some College,East Jessicafort,M,N/A,0,N/A,3,Developer,03/22,07/25,Network Administrator,04/22,12/22,N/A,N/A,N/A,4.28,0
+906,University 171,3.49,Masters,Katherinemouth,N/A,1,0,1,3,Business Analyst,09/21,02/22,Full-stack Developer,01/23,05/26,N/A,N/A,N/A,7.38,0
+907,University 44,2.97,High School,Stokesfort,F,0,0,1,3,Web Developer,03/19,03/22,Business Analyst,07/22,09/25,N/A,N/A,N/A,7.46,1
+908,University 2,3.33,Some College,Port Sandra,F,0,0,1,0,Data Scientist,12/16,03/19,Data Analyst,12/20,03/22,Product Manager,11/17,04/18,6.01,0
+909,University 83,2.94,Bachelors,Brownville,N/A,0,0,1,2,Data Scientist,07/19,12/19,UX Designer,12/17,05/19,Technical Support Specialist,03/22,06/23,6.91,0
+910,University 130,3.53,High School,Cookechester,M,0,1,0,0,System Analyst,10/19,05/20,Network Administrator,06/20,05/24,Teaching Assistant,10/16,02/20,7.23,0
+911,University 160,3.88,Bachelors,Garciaton,N/A,1,0,N/A,4,Teaching Assistant,12/16,11/20,Front-end Developer,04/18,11/20,Back-end Developer,05/21,06/23,1.08,0
+912,University 122,3.31,Bachelors,South Timothyville,N/A,1,1,N/A,0,Back-end Developer,08/17,07/20,Technical Support Specialist,03/20,06/22,N/A,N/A,N/A,7.51,0
+913,University 1,3.81,Phd,Ariasmouth,N/A,1,0,0,3,Data Scientist,05/16,09/16,Data Scientist,07/17,03/19,Developer,09/20,11/23,8.73,0
+914,University 147,3.95,Bachelors,North Danielfort,M,0,0,1,0,UX Designer,09/22,05/25,Full-stack Developer,03/20,11/22,Business Analyst,11/16,07/19,7.66,0
+915,University 103,3.56,Some College,Melissaville,M,0,1,N/A,3,UX Designer,08/20,01/24,Database Administrator,07/17,10/20,System Analyst,11/20,11/22,1.68,1
+916,University 62,3.02,Bachelors,Santiagobury,N/A,1,1,0,0,Database Administrator,02/21,09/23,Software Engineer,02/23,07/26,Front-end Developer,07/16,02/18,8.66,0
+917,University 81,3.05,Bachelors,Ryanland,M,0,1,1,3,Full-stack Developer,03/22,10/23,System Analyst,05/20,11/21,Database Administrator,08/22,04/23,3.45,0
+918,University 156,3.47,Some College,Lake Abigailbury,M,0,1,N/A,0,Software Engineer,02/22,05/24,QA Analyst,11/16,03/17,N/A,N/A,N/A,7.73,0
+919,University 149,3.66,Post-Doc,Shawshire,F,N/A,0,0,3,Front-end Developer,04/17,08/17,Data Analyst,07/16,05/20,N/A,N/A,N/A,8.01,0
+920,University 170,3.0,Phd,North Chelseaberg,N/A,N/A,0,N/A,0,IT Manager,07/16,03/18,UX Designer,06/20,10/21,N/A,N/A,N/A,1.25,0
+921,University 9,2.9,Phd,Dillonhaven,M,1,1,1,3,Product Manager,03/23,01/25,Data Scientist,03/17,10/19,Network Administrator,10/19,11/22,6.1,0
+922,University 85,3.98,Phd,South Staceyberg,M,N/A,0,N/A,2,Applications Developer,11/21,01/24,Technical Support Specialist,05/16,08/18,Teaching Assistant,07/18,07/20,1.37,0
+923,University 194,3.87,Some College,Dawsonport,F,1,1,N/A,0,Back-end Developer,07/17,05/18,Back-end Developer,05/16,05/19,Research Assistant,05/17,04/21,1.88,0
+924,University 134,2.89,High School,Smithstad,F,1,0,0,3,Data Scientist,08/21,12/24,Research Assistant,11/22,11/24,Data Analyst,06/20,04/24,3.28,1
+925,University 141,3.46,Some College,Port Matthew,M,N/A,1,N/A,3,Product Manager,06/22,11/23,UX Designer,07/18,06/21,Network Administrator,03/17,07/20,2.56,0
+926,University 171,3.44,Masters,Joneshaven,F,0,0,1,0,System Analyst,06/16,06/18,System Analyst,11/16,05/19,N/A,N/A,N/A,0.42,1
+927,University 130,2.89,High School,Port Christy,M,0,1,1,3,Database Administrator,08/16,03/17,N/A,N/A,N/A,N/A,N/A,N/A,7.84,0
+928,University 46,3.34,Phd,East Robertmouth,N/A,0,1,0,3,Data Analyst,03/20,07/21,Front-end Developer,06/16,01/17,Data Analyst,02/23,11/25,4.17,0
+929,University 125,3.9,Some College,Port Judithview,N/A,N/A,1,N/A,0,Software Engineer,09/22,07/26,Front-end Developer,01/19,10/21,Teaching Assistant,01/21,05/23,4.4,0
+930,University 94,3.38,High School,Gabrielleland,N/A,1,0,N/A,0,UX Designer,07/18,11/19,System Analyst,03/23,03/24,N/A,N/A,N/A,4.73,0
+931,University 23,3.82,Some College,South Kyle,N/A,1,1,0,0,Applications Developer,04/17,12/17,Web Developer,05/21,10/22,Technical Support Specialist,10/22,07/23,9.76,0
+932,University 53,3.76,Masters,Mooreport,F,0,1,0,3,Product Manager,04/22,09/24,N/A,N/A,N/A,N/A,N/A,N/A,9.74,1
+933,University 74,2.82,Phd,Lake Crystal,N/A,N/A,0,N/A,3,UX Designer,07/16,04/18,Web Developer,01/20,12/22,Data Scientist,10/16,01/20,8.61,0
+934,University 180,3.31,High School,Port Karenfort,N/A,N/A,1,1,0,IT Manager,09/16,04/17,Data Scientist,03/18,10/19,N/A,N/A,N/A,1.74,0
+935,University 81,3.62,Post-Doc,Johnsonton,M,N/A,1,0,4,Software Engineer,10/19,09/20,Full-stack Developer,09/17,02/21,Technical Support Specialist,03/21,02/25,4.61,1
+936,University 164,2.93,Some College,Perryview,M,N/A,1,0,3,Front-end Developer,11/19,08/23,Database Administrator,01/17,02/18,N/A,N/A,N/A,7.11,0
+937,University 170,3.94,Phd,Craigbury,M,0,0,N/A,0,IT Manager,09/17,11/20,N/A,N/A,N/A,N/A,N/A,N/A,2.66,0
+938,University 160,3.82,Phd,Lisaburgh,M,1,0,0,3,Web Developer,09/19,11/22,Software Engineer,02/22,09/22,N/A,N/A,N/A,3.47,1
+939,University 192,3.32,Post-Doc,Robertport,N/A,0,1,N/A,0,Web Developer,12/19,08/23,Full-stack Developer,11/18,03/19,Back-end Developer,01/19,08/21,2.58,0
+940,University 80,3.67,Post-Doc,Lake Markfurt,N/A,0,1,1,0,UX Designer,08/21,10/22,Applications Developer,04/19,07/21,N/A,N/A,N/A,5.29,0
+941,University 76,3.8,Phd,West Ericshire,M,0,1,0,3,Front-end Developer,01/17,03/20,N/A,N/A,N/A,N/A,N/A,N/A,2.77,1
+942,University 194,2.82,High School,Philliptown,M,N/A,0,N/A,0,Full-stack Developer,04/20,03/22,Developer,11/17,11/20,Applications Developer,12/16,01/18,4.95,1
+943,University 58,3.51,Post-Doc,Wrightview,N/A,1,1,1,0,Network Administrator,11/21,03/22,Technical Support Specialist,04/16,05/19,QA Analyst,11/22,10/25,2.39,0
+944,University 108,3.94,High School,Smithmouth,M,0,0,0,4,Front-end Developer,02/23,08/25,Technical Support Specialist,01/19,11/20,N/A,N/A,N/A,6.85,0
+945,University 62,2.83,Masters,Melaniestad,N/A,0,1,N/A,0,Front-end Developer,05/19,07/20,N/A,N/A,N/A,N/A,N/A,N/A,4.65,0
+946,University 167,2.81,High School,Cookside,N/A,0,1,1,0,System Analyst,01/17,06/19,QA Analyst,09/20,04/21,N/A,N/A,N/A,1.55,0
+947,University 9,3.91,Phd,Jacquelineside,F,1,1,0,0,IT Manager,06/18,02/22,Software Engineer,10/22,06/24,N/A,N/A,N/A,3.94,1
+948,University 15,3.4,Masters,New Royside,F,N/A,0,0,0,Network Administrator,06/21,11/23,Research Assistant,06/21,01/23,Network Administrator,06/21,10/24,8.99,1
+949,University 20,3.22,Masters,Craigberg,M,N/A,1,1,3,Data Analyst,06/16,08/18,Teaching Assistant,04/21,12/24,N/A,N/A,N/A,1.99,0
+950,University 84,3.33,Masters,Port Thomas,M,N/A,0,1,4,Full-stack Developer,11/21,07/24,Back-end Developer,01/17,08/20,N/A,N/A,N/A,0.76,0
+951,University 102,3.21,Post-Doc,Jamesburgh,N/A,0,0,1,3,Network Administrator,05/16,12/18,Network Administrator,02/21,02/23,Developer,11/21,11/24,6.46,0
+952,University 162,3.71,Bachelors,New Casey,N/A,1,1,N/A,3,Software Engineer,09/16,02/20,N/A,N/A,N/A,N/A,N/A,N/A,5.92,0
+953,University 147,3.34,Phd,New Joshua,F,N/A,0,0,4,Full-stack Developer,09/16,03/19,Data Scientist,03/22,04/23,Web Developer,10/17,03/18,7.47,0
+954,University 97,3.63,Some College,Christopherburgh,F,0,1,1,3,Product Manager,08/19,05/23,Full-stack Developer,08/20,10/21,N/A,N/A,N/A,9.25,0
+955,University 177,3.5,Post-Doc,West Jake,F,1,0,N/A,4,Back-end Developer,03/23,07/25,Technical Support Specialist,04/17,04/20,Software Engineer,06/21,10/22,8.43,0
+956,University 105,3.67,Masters,Patriciastad,N/A,1,1,1,0,QA Analyst,03/22,03/23,Database Administrator,03/19,08/21,N/A,N/A,N/A,0.86,0
+957,University 57,3.19,Masters,West Christopher,M,1,0,1,1,Web Developer,10/19,08/23,N/A,N/A,N/A,N/A,N/A,N/A,8.14,1
+958,University 149,2.94,Bachelors,West Kellyton,F,N/A,1,0,3,Database Administrator,02/23,02/24,Database Administrator,12/19,09/20,N/A,N/A,N/A,0.71,0
+959,University 24,2.89,Masters,West Connie,M,N/A,1,1,0,Teaching Assistant,03/17,09/20,N/A,N/A,N/A,N/A,N/A,N/A,9.68,1
+960,University 132,3.74,Phd,Lake Amy,N/A,0,0,N/A,0,UX Designer,05/16,12/19,IT Manager,06/19,04/21,N/A,N/A,N/A,3.8,0
+961,University 41,3.06,High School,East Peter,M,0,1,1,3,System Analyst,11/18,07/21,N/A,N/A,N/A,N/A,N/A,N/A,9.02,1
+962,University 58,3.35,Phd,Lake Matthew,F,0,0,N/A,0,UX Designer,07/19,03/23,Full-stack Developer,03/19,09/21,Product Manager,02/19,12/20,9.58,1
+963,University 52,2.83,Some College,North Nathan,N/A,N/A,1,N/A,4,UX Designer,03/17,11/19,Back-end Developer,09/21,06/25,QA Analyst,10/20,07/23,5.39,0
+964,University 109,3.64,Bachelors,South Jeremy,M,1,0,1,4,Business Analyst,06/16,02/18,Database Administrator,09/21,08/25,N/A,N/A,N/A,4.81,0
+965,University 178,3.68,Bachelors,Myerschester,N/A,0,1,1,4,Database Administrator,06/17,04/19,Developer,08/22,04/24,IT Manager,07/16,09/16,3.11,0
+966,University 29,3.89,Phd,Port Anamouth,N/A,0,0,0,4,Database Administrator,08/18,11/19,Software Engineer,06/21,07/21,N/A,N/A,N/A,8.21,0
+967,University 139,3.65,Post-Doc,South Katelynfort,N/A,N/A,0,0,3,Data Scientist,02/18,10/21,Data Scientist,05/20,03/23,N/A,N/A,N/A,2.42,0
+968,University 24,3.7,High School,West Brittany,M,N/A,0,1,3,Product Manager,08/22,03/23,Data Scientist,08/16,12/17,Business Analyst,08/22,09/24,5.2,0
+969,University 115,3.85,Some College,Sanchezbury,M,1,1,0,3,System Analyst,07/17,03/19,QA Analyst,12/22,11/26,N/A,N/A,N/A,2.58,0
+970,University 146,3.73,Phd,Molinaview,M,N/A,0,1,0,Data Scientist,11/17,03/20,System Analyst,10/17,03/18,Network Administrator,04/19,01/23,9.38,1
+971,University 171,3.07,Masters,Lake Karen,M,N/A,1,1,3,Web Developer,01/22,10/25,Back-end Developer,10/16,10/18,QA Analyst,04/23,06/23,0.77,0
+972,University 14,3.01,Bachelors,Scottville,M,0,0,1,4,System Analyst,07/21,12/22,N/A,N/A,N/A,N/A,N/A,N/A,5.28,1
+973,University 123,3.22,Bachelors,Ronaldshire,F,0,1,1,3,Web Developer,02/23,07/25,Research Assistant,06/18,08/21,Technical Support Specialist,08/22,01/23,3.27,0
+974,University 69,3.13,Some College,Lopezside,F,0,1,1,3,QA Analyst,04/23,11/24,Database Administrator,11/19,01/21,Full-stack Developer,08/19,03/20,0.54,0
+975,University 20,3.89,Phd,Markland,N/A,1,0,N/A,0,Technical Support Specialist,08/22,03/23,N/A,N/A,N/A,N/A,N/A,N/A,0.54,0
+976,University 100,3.57,High School,Tapiachester,M,0,1,N/A,0,Data Analyst,04/21,07/24,Full-stack Developer,08/18,08/22,N/A,N/A,N/A,2.99,1
+977,University 25,3.45,Some College,Gilbertborough,M,N/A,0,1,0,Teaching Assistant,02/20,12/23,QA Analyst,12/18,04/21,Back-end Developer,07/21,06/25,2.78,1
+978,University 135,2.88,Post-Doc,Joseside,M,N/A,1,0,0,Software Engineer,12/17,09/19,Front-end Developer,08/20,05/24,Data Analyst,01/23,09/24,6.1,1
+979,University 58,3.58,Phd,South Maryside,F,N/A,1,1,4,Applications Developer,11/20,11/21,Back-end Developer,08/22,07/24,Business Analyst,05/17,02/21,2.12,0
+980,University 9,3.91,Post-Doc,Wilsonberg,M,N/A,0,0,1,Back-end Developer,05/20,02/22,QA Analyst,05/16,08/16,IT Manager,07/16,02/18,2.94,0
+981,University 88,2.8,Post-Doc,Cindyport,M,1,0,1,3,Developer,06/16,06/20,Front-end Developer,01/19,07/21,N/A,N/A,N/A,9.88,0
+982,University 46,3.36,Some College,Chadville,N/A,0,1,1,3,Product Manager,04/19,09/21,IT Manager,05/17,05/19,Network Administrator,01/20,03/23,2.06,0
+983,University 137,3.27,Some College,North Karaville,M,0,0,N/A,0,Developer,05/16,06/19,N/A,N/A,N/A,N/A,N/A,N/A,3.63,0
+984,University 187,3.02,Bachelors,Charlesside,N/A,1,0,0,3,Database Administrator,08/21,10/23,Full-stack Developer,01/21,01/23,Back-end Developer,04/22,05/23,2.94,0
+985,University 99,3.62,Masters,East Jodi,M,1,1,0,4,QA Analyst,06/16,06/19,N/A,N/A,N/A,N/A,N/A,N/A,6.65,1
+986,University 16,3.72,Some College,Guerreroview,F,1,0,N/A,0,QA Analyst,08/18,10/18,N/A,N/A,N/A,N/A,N/A,N/A,4.49,0
+987,University 181,2.94,High School,Lake Williamhaven,F,0,1,N/A,3,Web Developer,03/18,06/19,N/A,N/A,N/A,N/A,N/A,N/A,9.83,0
+988,University 191,3.56,Bachelors,Port Alisonberg,F,N/A,0,0,0,Database Administrator,05/16,06/18,N/A,N/A,N/A,N/A,N/A,N/A,8.95,0
+989,University 133,3.14,High School,Wrightside,N/A,N/A,1,1,0,Teaching Assistant,08/19,11/20,Network Administrator,09/20,02/21,Full-stack Developer,04/18,07/18,1.52,0
+990,University 67,3.49,Phd,Mejiaton,M,0,1,N/A,3,Data Scientist,04/21,09/23,N/A,N/A,N/A,N/A,N/A,N/A,0.94,1
+991,University 43,3.66,Bachelors,Dianeland,N/A,1,1,1,3,System Analyst,08/18,02/22,IT Manager,12/19,02/20,N/A,N/A,N/A,1.22,0
+992,University 53,3.84,Bachelors,Leeburgh,M,N/A,1,N/A,0,Developer,03/19,10/22,Developer,02/19,08/20,N/A,N/A,N/A,5.75,1
+993,University 88,3.21,Masters,Hannahburgh,F,N/A,0,N/A,0,Applications Developer,04/23,02/26,QA Analyst,12/20,01/21,N/A,N/A,N/A,1.39,0
+994,University 40,2.89,High School,South Miguel,N/A,1,1,1,0,Software Engineer,12/16,02/20,IT Manager,04/22,10/25,N/A,N/A,N/A,6.07,0
+995,University 36,3.54,Post-Doc,Roseborough,M,N/A,0,1,0,Back-end Developer,05/22,06/22,Applications Developer,01/23,07/25,N/A,N/A,N/A,5.66,1
+996,University 200,3.0,Post-Doc,Harrisonburgh,F,N/A,0,N/A,3,System Analyst,12/21,12/22,System Analyst,09/19,10/19,Software Engineer,06/22,08/23,4.19,0
+997,University 139,3.49,High School,North Angela,F,1,0,1,4,Front-end Developer,09/20,01/21,IT Manager,07/18,03/20,Full-stack Developer,03/21,04/22,7.81,0
+998,University 41,3.31,High School,Sharonborough,M,1,1,N/A,4,Network Administrator,02/20,06/20,Web Developer,10/20,03/21,Network Administrator,07/20,07/21,6.8,0
+999,University 96,3.64,Post-Doc,Darrenburgh,M,1,1,1,3,System Analyst,06/16,04/19,Software Engineer,04/16,01/20,Applications Developer,08/16,06/17,7.6,0
+1000,University 190,3.77,Phd,New Connor,F,1,1,1,3,System Analyst,04/16,04/20,Data Analyst,11/20,01/24,N/A,N/A,N/A,7.85,1
